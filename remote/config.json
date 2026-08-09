@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "minVersion": 1,
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest",
+  "message": "",
+  "beta": {
+    "code": "fumacinha2026",
+    "allowNicks": ["Vitão ®", "fu"]
+  }
+}
