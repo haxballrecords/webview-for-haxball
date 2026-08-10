@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "minVersion": 1,
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest",
   "message": "",
