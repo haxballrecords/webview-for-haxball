@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "2.18",
+  "versionCode": 30,
+  "versionName": "2.19",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção: as janelas News/About/Community apareciam vazias — o carrossel agora alinha o conteúdo corretamente dentro da janela (transform no track, não no body)."
+  "changelog": "News/About/Community: páginas vizinhas SEMPRE carregadas (nada surge nas margens ao tocar), troca de página sem re-render do texto visível (rotação preserva o DOM) e pré-carregamento de todos os textos no boot — janelas abrem instantaneamente."
 }
