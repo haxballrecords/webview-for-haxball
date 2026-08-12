@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "2.23",
+  "versionCode": 35,
+  "versionName": "2.24",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Carrossel mantém o espaço lateral entre as páginas durante o arrasto (conteúdos não colam)"
+  "changelog": "Chat Global: abas Local/Global no chat, mensagens entre jogadores com bandeiras e chat-log no Discord"
 }
