@@ -1,8 +1,13 @@
 {
-  "versionCode": 35,
-  "versionName": "2.24",
+  "versionCode": 36,
+  "versionName": "2.25",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global: abas Local/Global no chat, mensagens entre jogadores com bandeiras e chat-log no Discord"
+  "changelog": "Correções: o Chat Global agora reconhece o apelido escolhido (campo e botão reais do jogo) e o changelog da atualização aparece traduzido no idioma do app.",
+  "changelogI18n": {
+    "pt": "Correções: o Chat Global agora reconhece o apelido escolhido (campo e botão reais do jogo) e o changelog da atualização aparece traduzido no idioma do app.",
+    "en": "Corrections: Global Chat now recognizes the chosen nickname (real game field and button) and the update changelog appears translated into the app's language.",
+    "es": "Correcciones: Global Chat ahora reconoce el apodo elegido (campo y botón del juego real) y el registro de cambios de actualización aparece traducido al idioma de la aplicación."
+  }
 }
