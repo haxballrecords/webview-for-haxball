@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "2.21",
+  "versionCode": 33,
+  "versionName": "2.22",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Carrossel de abas (estilo News) dentro do Control, Profile e Settings"
+  "changelog": "Correções do carrossel de abas: sem invasão de margem em arrasto mínimo, Settings com abas ocultas e botões arrastáveis"
 }
