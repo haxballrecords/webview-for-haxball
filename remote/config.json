@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "2.16",
+  "versionCode": 28,
+  "versionName": "2.17",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Migração de servidor para melhor estabilidade e melhorias internas de conexão."
+  "changelog": "News em carrossel estilo Instagram: a notícia anterior/próxima já aparece durante o arrasto e a troca de página ficou suave, sem trancos."
 }
