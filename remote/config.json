@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "2.17",
+  "versionCode": 29,
+  "versionName": "2.18",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "News em carrossel estilo Instagram: a notícia anterior/próxima já aparece durante o arrasto e a troca de página ficou suave, sem trancos."
+  "changelog": "Correção: as janelas News/About/Community apareciam vazias — o carrossel agora alinha o conteúdo corretamente dentro da janela (transform no track, não no body)."
 }
