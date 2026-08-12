@@ -1,13 +1,13 @@
 {
-  "versionCode": 36,
-  "versionName": "2.25",
+  "versionCode": 37,
+  "versionName": "2.26",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correções: o Chat Global agora reconhece o apelido escolhido (campo e botão reais do jogo) e o changelog da atualização aparece traduzido no idioma do app.",
+  "changelog": "Bandeira do jogador aparece na hora no Chat Global, Enter nos slots de Mensagens/Emojis não avança mais para o próximo campo, e o servidor migrou para infraestrutura dedicada mais estável.",
   "changelogI18n": {
-    "pt": "Correções: o Chat Global agora reconhece o apelido escolhido (campo e botão reais do jogo) e o changelog da atualização aparece traduzido no idioma do app.",
-    "en": "Corrections: Global Chat now recognizes the chosen nickname (real game field and button) and the update changelog appears translated into the app's language.",
-    "es": "Correcciones: Global Chat ahora reconoce el apodo elegido (campo y botón del juego real) y el registro de cambios de actualización aparece traducido al idioma de la aplicación."
+    "pt": "Bandeira do jogador aparece na hora no Chat Global, Enter nos slots de Mensagens/Emojis não avança mais para o próximo campo, e o servidor migrou para infraestrutura dedicada mais estável.",
+    "en": "The player's flag appears instantly in Global Chat, Enter in the Messages/Emojis slots no longer advances to the next field, and the server has migrated to a more stable dedicated infrastructure.",
+    "es": "La bandera del jugador aparece instantáneamente en el chat global, ingresar en los espacios de Mensajes/Emojis ya no avanza al siguiente campo y el servidor ha migrado a una infraestructura dedicada más estable."
   }
 }
