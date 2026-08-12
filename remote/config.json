@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "2.15",
+  "versionCode": 27,
+  "versionName": "2.16",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "v2.15: O botão de atualização agora acende na hora que uma versão nova é publicada, mesmo que o servidor de config esteja fora — o app busca o config em DUAS fontes (servidor + GitHub)."
+  "changelog": "Migração de servidor para melhor estabilidade e melhorias internas de conexão."
 }
