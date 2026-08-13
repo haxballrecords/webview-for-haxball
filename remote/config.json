@@ -1,13 +1,13 @@
 {
-  "versionCode": 40,
-  "versionName": "2.29",
+  "versionCode": 41,
+  "versionName": "2.30",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correções: a bandeira do Chat Global ganhou uma segunda fonte de localização (independente do jogo) para funcionar mesmo quando o serviço do jogo está bloqueado, e as mensagens do Chat Global agora são limpas de forma confiável ao fechar/voltar ao aplicativo.",
+  "changelog": "Chat Global: histórico antigo não reaparece ao reabrir o app (sessão limpa por sessão) + correção de skew de relógio do servidor.",
   "changelogI18n": {
-    "pt": "Correções: a bandeira do Chat Global ganhou uma segunda fonte de localização (independente do jogo) para funcionar mesmo quando o serviço do jogo está bloqueado, e as mensagens do Chat Global agora são limpas de forma confiável ao fechar/voltar ao aplicativo.",
-    "en": "Fixes: Global Chat flag gained a second location source (independent of the game) to work even when the game service is blocked, and Global Chat messages are now reliably cleared when closing/returning to the app.",
-    "es": "Correcciones: la bandera de Global Chat obtuvo una segunda fuente de ubicación (independiente del juego) para funcionar incluso cuando el servicio del juego está bloqueado, y los mensajes de Global Chat ahora se borran de manera confiable al cerrar o regresar a la aplicación."
+    "pt": "Chat Global: histórico antigo não reaparece ao reabrir o app (sessão limpa por sessão) + correção de skew de relógio do servidor.",
+    "en": "Global Chat: old history does not reappear when reopening the app (clear session per session) + server clock skew correction.",
+    "es": "Chat global: el historial antiguo no reaparece al volver a abrir la aplicación (borrar sesión por sesión) + corrección de la desviación del reloj del servidor."
   }
 }
