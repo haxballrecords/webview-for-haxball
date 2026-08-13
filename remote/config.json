@@ -1,13 +1,13 @@
 {
-  "versionCode": 38,
-  "versionName": "2.27",
+  "versionCode": 39,
+  "versionName": "2.28",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Bandeira do jogador aparece na hora no Chat Global (detecção pela localização do jogo, mesmo no lobby), suporte a bandeiras de 3 letras (Inglaterra, País de Gales, Escócia) e mensagens do Chat Global limpas no aplicativo ao fechar (o histórico continua no servidor e no chat-log).",
+  "changelog": "Ajuste interno: a detecção de localização (bandeira do Chat Global) agora só roda com o jogo totalmente carregado, evitando tráfego desnecessário na página de verificação de segurança.",
   "changelogI18n": {
-    "pt": "Bandeira do jogador aparece na hora no Chat Global (detecção pela localização do jogo, mesmo no lobby), suporte a bandeiras de 3 letras (Inglaterra, País de Gales, Escócia) e mensagens do Chat Global limpas no aplicativo ao fechar (o histórico continua no servidor e no chat-log).",
-    "en": "Player's flag appears instantly in Global Chat (detection by game location, even in the lobby), support for 3-letter flags (England, Wales, Scotland) and Global Chat messages cleared in the application when closing (the history remains on the server and in the chat log).",
-    "es": "La bandera del jugador aparece instantáneamente en el Chat Global (detección por ubicación del juego, incluso en el lobby), soporte para banderas de 3 letras (Inglaterra, Gales, Escocia) y los mensajes del Chat Global se borran en la aplicación al cerrar (el historial permanece en el servidor y en el registro de chat)."
+    "pt": "Ajuste interno: a detecção de localização (bandeira do Chat Global) agora só roda com o jogo totalmente carregado, evitando tráfego desnecessário na página de verificação de segurança.",
+    "en": "Internal tweak: Location detection (Global Chat flag) now only runs when the game is fully loaded, avoiding unnecessary traffic on the security check page.",
+    "es": "Ajuste interno: la detección de ubicación (indicador de chat global) ahora solo se ejecuta cuando el juego está completamente cargado, lo que evita tráfico innecesario en la página de control de seguridad."
   }
 }
