@@ -1,13 +1,13 @@
 {
-  "versionCode": 51,
+  "versionCode": 52,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Pulso de Curva: botão Ligado/Desligado agora ao lado do Reset (traduzido EN/PT/ES) + texto do botão Informações atualizado (app não oficial, 100% gratuito, respeito ao Basro, anúncios originais preservados).",
+  "changelog": "Atualização automática via release.sh.",
   "changelogI18n": {
-    "pt": "Pulso de Curva: botão Ligado/Desligado agora ao lado do Reset (traduzido EN/PT/ES) + texto do botão Informações atualizado (app não oficial, 100% gratuito, respeito ao Basro, anúncios originais preservados).",
-    "en": "Curve Pulse: On/Off button now next to Reset (translated EN/PT/ES) + updated Information button text (unofficial app, 100% free, respect for Basro, original ads preserved).",
-    "es": "Curve Pulse: botón de encendido/apagado ahora junto a Restablecer (traducido EN/PT/ES) + texto del botón de información actualizado (aplicación no oficial, 100% gratuita, respeto por Basro, se conservan los anuncios originales)."
+    "pt": "Atualização automática via release.sh.",
+    "en": "Automatic update via release.sh.",
+    "es": "Actualización automática a través de release.sh."
   }
 }
