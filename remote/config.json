@@ -1,13 +1,13 @@
 {
-  "versionCode": 52,
+  "versionCode": 53,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Atualização automática via release.sh.",
+  "changelog": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
   "changelogI18n": {
-    "pt": "Atualização automática via release.sh.",
-    "en": "Automatic update via release.sh.",
-    "es": "Actualización automática a través de release.sh."
+    "pt": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
+    "en": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
+    "es": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro)."
   }
 }
