@@ -1,13 +1,13 @@
 {
-  "versionCode": 44,
-  "versionName": "2.33",
+  "versionCode": 45,
+  "versionName": "2.34",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global: envio no lobby corrigido (não trava mais com a rede lenta) + mensagens da sala continuam visíveis ao voltar ao lobby. Melhorias internas de estabilidade.",
+  "changelog": "Chat Global: histórico mantido ao entrar e sair de salas. Correção no formato do log do Discord (bandeira antes do apelido).",
   "changelogI18n": {
-    "pt": "Chat Global: envio no lobby corrigido (não trava mais com a rede lenta) + mensagens da sala continuam visíveis ao voltar ao lobby. Melhorias internas de estabilidade.",
-    "en": "Global Chat: sending in the lobby fixed (no longer crashes on a slow network) + messages from the room are still visible when returning to the lobby. Internal stability improvements.",
-    "es": "Chat global: se corrigió el envío en el lobby (ya no falla en una red lenta) + los mensajes de la sala aún son visibles al regresar al lobby. Mejoras en la estabilidad interna."
+    "pt": "Chat Global: histórico mantido ao entrar e sair de salas. Correção no formato do log do Discord (bandeira antes do apelido).",
+    "en": "Global Chat: history maintained when entering and leaving rooms. Correction in Discord log format (flag before nickname).",
+    "es": "Chat Global: historial mantenido al entrar y salir de las salas. Corrección en formato de registro de Discord (bandera antes del apodo)."
   }
 }
