@@ -1,13 +1,13 @@
 {
-  "versionCode": 46,
-  "versionName": "2.35",
+  "versionCode": 47,
+  "versionName": "2.36",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global: proteção extra contra reinjeção do script, garantindo o histórico ao entrar e sair de salas.",
+  "changelog": "Chat Global: correção definitiva — as mensagens agora aparecem no lobby mesmo após entrar e sair de salas.",
   "changelogI18n": {
-    "pt": "Chat Global: proteção extra contra reinjeção do script, garantindo o histórico ao entrar e sair de salas.",
-    "en": "Global Chat: extra protection against script reinjection, guaranteeing the history when entering and leaving rooms.",
-    "es": "Global Chat: protección extra contra la reinyección de scripts, garantizando el historial al entrar y salir de las habitaciones."
+    "pt": "Chat Global: correção definitiva — as mensagens agora aparecem no lobby mesmo após entrar e sair de salas.",
+    "en": "Global Chat: definitive fix — messages now appear in the lobby even after entering and leaving rooms.",
+    "es": "Chat global: solución definitiva: los mensajes ahora aparecen en el lobby incluso después de entrar y salir de las salas."
   }
 }
