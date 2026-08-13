@@ -1,13 +1,13 @@
 {
-  "versionCode": 41,
-  "versionName": "2.30",
+  "versionCode": 42,
+  "versionName": "2.31",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global: histórico antigo não reaparece ao reabrir o app (sessão limpa por sessão) + correção de skew de relógio do servidor.",
+  "changelog": "Chat Global mantém a sessão ao entrar/sair de salas (não limpa mais com o app aberto) + menu de comandos do jogador volta a abrir no toque longo da lista de jogadores.",
   "changelogI18n": {
-    "pt": "Chat Global: histórico antigo não reaparece ao reabrir o app (sessão limpa por sessão) + correção de skew de relógio do servidor.",
-    "en": "Global Chat: old history does not reappear when reopening the app (clear session per session) + server clock skew correction.",
-    "es": "Chat global: el historial antiguo no reaparece al volver a abrir la aplicación (borrar sesión por sesión) + corrección de la desviación del reloj del servidor."
+    "pt": "Chat Global mantém a sessão ao entrar/sair de salas (não limpa mais com o app aberto) + menu de comandos do jogador volta a abrir no toque longo da lista de jogadores.",
+    "en": "Global Chat maintains the session when entering/leaving rooms (no longer clears with the app open) + player command menu opens again when long pressing the player list.",
+    "es": "Global Chat mantiene la sesión al entrar/salir de las salas (ya no se borra con la aplicación abierta) + el menú de comandos del jugador se abre nuevamente al presionar prolongadamente la lista de jugadores."
   }
 }
