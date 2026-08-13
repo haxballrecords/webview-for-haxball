@@ -1,13 +1,13 @@
 {
-  "versionCode": 45,
-  "versionName": "2.34",
+  "versionCode": 46,
+  "versionName": "2.35",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global: histórico mantido ao entrar e sair de salas. Correção no formato do log do Discord (bandeira antes do apelido).",
+  "changelog": "Chat Global: proteção extra contra reinjeção do script, garantindo o histórico ao entrar e sair de salas.",
   "changelogI18n": {
-    "pt": "Chat Global: histórico mantido ao entrar e sair de salas. Correção no formato do log do Discord (bandeira antes do apelido).",
-    "en": "Global Chat: history maintained when entering and leaving rooms. Correction in Discord log format (flag before nickname).",
-    "es": "Chat Global: historial mantenido al entrar y salir de las salas. Corrección en formato de registro de Discord (bandera antes del apodo)."
+    "pt": "Chat Global: proteção extra contra reinjeção do script, garantindo o histórico ao entrar e sair de salas.",
+    "en": "Global Chat: extra protection against script reinjection, guaranteeing the history when entering and leaving rooms.",
+    "es": "Global Chat: protección extra contra la reinyección de scripts, garantizando el historial al entrar y salir de las habitaciones."
   }
 }
