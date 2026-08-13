@@ -1,13 +1,13 @@
 {
-  "versionCode": 42,
-  "versionName": "2.31",
+  "versionCode": 43,
+  "versionName": "2.32",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat Global mantém a sessão ao entrar/sair de salas (não limpa mais com o app aberto) + menu de comandos do jogador volta a abrir no toque longo da lista de jogadores.",
+  "changelog": "Chat Global: não limpa mais em transições lobby-sala (só ao fechar o app) + menu de comandos do jogador abre de novo no toque longo. Bot voltou para a máquina local (192.168.15.4).",
   "changelogI18n": {
-    "pt": "Chat Global mantém a sessão ao entrar/sair de salas (não limpa mais com o app aberto) + menu de comandos do jogador volta a abrir no toque longo da lista de jogadores.",
-    "en": "Global Chat maintains the session when entering/leaving rooms (no longer clears with the app open) + player command menu opens again when long pressing the player list.",
-    "es": "Global Chat mantiene la sesión al entrar/salir de las salas (ya no se borra con la aplicación abierta) + el menú de comandos del jugador se abre nuevamente al presionar prolongadamente la lista de jugadores."
+    "pt": "Chat Global: não limpa mais em transições lobby-sala (só ao fechar o app) + menu de comandos do jogador abre de novo no toque longo. Bot voltou para a máquina local (192.168.15.4).",
+    "en": "Global Chat: no longer clears in lobby-room transitions (only when closing the app) + player command menu opens again on long press. Bot returned to local machine (192.168.15.4).",
+    "es": "Chat global: ya no se borra en las transiciones del vestíbulo a la sala (solo al cerrar la aplicación) + el menú de comandos del jugador se abre nuevamente al presionarlo prolongadamente. El bot regresó a la máquina local (192.168.15.4)."
   }
 }
