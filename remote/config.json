@@ -1,13 +1,13 @@
 {
-  "versionCode": 48,
-  "versionName": "2.37",
+  "versionCode": 49,
+  "versionName": "2.38",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Analógico de 16 direções: novas diagonais intermediárias (NNE/ENE/ESE/SSE/SSO/OSO/ONO/NNO) com pulso PWM — tecla primária contínua + secundária pulsada em 1 tick de física, slider \"Pulso de Curva\" na aba Adjustment (16-83ms), histerese nas bordas das fatias e limpeza automática ao soltar o dedo.",
+  "changelog": "Pulso de Curva: mínimo agora 0 (gap 0 = secundária praticamente segurada, diagonal cheia) + botão Reset no card — volta ao padrão 30 com 1 toque.",
   "changelogI18n": {
-    "pt": "Analógico de 16 direções: novas diagonais intermediárias (NNE/ENE/ESE/SSE/SSO/OSO/ONO/NNO) com pulso PWM — tecla primária contínua + secundária pulsada em 1 tick de física, slider \"Pulso de Curva\" na aba Adjustment (16-83ms), histerese nas bordas das fatias e limpeza automática ao soltar o dedo.",
-    "en": "16-way analog: new intermediate diagonals (NNE/ENE/ESE/SSE/SSO/OSO/ONO/NNO) with PWM pulse — continuous primary key + secondary pulsed in 1 physics tick, \"Curve Pulse\" slider in the Adjustment tab (16-83ms), hysteresis at the edges of the slices and automatic cleaning when releasing the finger.",
-    "es": "Analógico de 16 vías: nuevas diagonales intermedias (NNE/ENE/ESE/SSE/SSO/OSO/ONO/NNO) con pulso PWM: tecla primaria continua + pulsación secundaria en 1 tic físico, control deslizante \"Pulso de curva\" en la pestaña Ajuste (16-83 ms), histéresis en los bordes de los cortes y limpieza automática al soltar el dedo."
+    "pt": "Pulso de Curva: mínimo agora 0 (gap 0 = secundária praticamente segurada, diagonal cheia) + botão Reset no card — volta ao padrão 30 com 1 toque.",
+    "en": "Curve Pulse: minimum now 0 (gap 0 = secondary practically held, diagonal full) + Reset button on the card — returns to default 30 with 1 touch.",
+    "es": "Pulso curvo: mínimo ahora 0 (espacio 0 = secundario prácticamente mantenido, diagonal llena) + botón de reinicio en la tarjeta: vuelve al valor predeterminado 30 con 1 toque."
   }
 }
