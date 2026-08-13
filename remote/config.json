@@ -1,13 +1,13 @@
 {
-  "versionCode": 37,
-  "versionName": "2.26",
+  "versionCode": 38,
+  "versionName": "2.27",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Bandeira do jogador aparece na hora no Chat Global, Enter nos slots de Mensagens/Emojis não avança mais para o próximo campo, e o servidor migrou para infraestrutura dedicada mais estável.",
+  "changelog": "Bandeira do jogador aparece na hora no Chat Global (detecção pela localização do jogo, mesmo no lobby), suporte a bandeiras de 3 letras (Inglaterra, País de Gales, Escócia) e mensagens do Chat Global limpas no aplicativo ao fechar (o histórico continua no servidor e no chat-log).",
   "changelogI18n": {
-    "pt": "Bandeira do jogador aparece na hora no Chat Global, Enter nos slots de Mensagens/Emojis não avança mais para o próximo campo, e o servidor migrou para infraestrutura dedicada mais estável.",
-    "en": "The player's flag appears instantly in Global Chat, Enter in the Messages/Emojis slots no longer advances to the next field, and the server has migrated to a more stable dedicated infrastructure.",
-    "es": "La bandera del jugador aparece instantáneamente en el chat global, ingresar en los espacios de Mensajes/Emojis ya no avanza al siguiente campo y el servidor ha migrado a una infraestructura dedicada más estable."
+    "pt": "Bandeira do jogador aparece na hora no Chat Global (detecção pela localização do jogo, mesmo no lobby), suporte a bandeiras de 3 letras (Inglaterra, País de Gales, Escócia) e mensagens do Chat Global limpas no aplicativo ao fechar (o histórico continua no servidor e no chat-log).",
+    "en": "Player's flag appears instantly in Global Chat (detection by game location, even in the lobby), support for 3-letter flags (England, Wales, Scotland) and Global Chat messages cleared in the application when closing (the history remains on the server and in the chat log).",
+    "es": "La bandera del jugador aparece instantáneamente en el Chat Global (detección por ubicación del juego, incluso en el lobby), soporte para banderas de 3 letras (Inglaterra, Gales, Escocia) y los mensajes del Chat Global se borran en la aplicación al cerrar (el historial permanece en el servidor y en el registro de chat)."
   }
 }
