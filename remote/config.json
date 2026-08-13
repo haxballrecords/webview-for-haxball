@@ -1,13 +1,13 @@
 {
-  "versionCode": 49,
-  "versionName": "2.38",
+  "versionCode": 50,
+  "versionName": "2.39",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Pulso de Curva: mínimo agora 0 (gap 0 = secundária praticamente segurada, diagonal cheia) + botão Reset no card — volta ao padrão 30 com 1 toque.",
+  "changelog": "Pulso de Curva: botão Ligado/Desligado no card — desligado, o analógico volta ao comportamento antigo (8 direções, sem pulso, diagonal cheia de 45°).",
   "changelogI18n": {
-    "pt": "Pulso de Curva: mínimo agora 0 (gap 0 = secundária praticamente segurada, diagonal cheia) + botão Reset no card — volta ao padrão 30 com 1 toque.",
-    "en": "Curve Pulse: minimum now 0 (gap 0 = secondary practically held, diagonal full) + Reset button on the card — returns to default 30 with 1 touch.",
-    "es": "Pulso curvo: mínimo ahora 0 (espacio 0 = secundario prácticamente mantenido, diagonal llena) + botón de reinicio en la tarjeta: vuelve al valor predeterminado 30 con 1 toque."
+    "pt": "Pulso de Curva: botão Ligado/Desligado no card — desligado, o analógico volta ao comportamento antigo (8 direções, sem pulso, diagonal cheia de 45°).",
+    "en": "Curve Pulse: On/Off button on the card — off, the analogue returns to the old behavior (8 directions, no pulse, full diagonal of 45°).",
+    "es": "Pulse en curva: botón de encendido/apagado en la tarjeta: apagado, el analógico vuelve al comportamiento anterior (8 direcciones, sin pulso, diagonal completa de 45°)."
   }
 }
