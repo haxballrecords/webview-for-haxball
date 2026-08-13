@@ -1,13 +1,13 @@
 {
-  "versionCode": 39,
-  "versionName": "2.28",
+  "versionCode": 40,
+  "versionName": "2.29",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Ajuste interno: a detecção de localização (bandeira do Chat Global) agora só roda com o jogo totalmente carregado, evitando tráfego desnecessário na página de verificação de segurança.",
+  "changelog": "Correções: a bandeira do Chat Global ganhou uma segunda fonte de localização (independente do jogo) para funcionar mesmo quando o serviço do jogo está bloqueado, e as mensagens do Chat Global agora são limpas de forma confiável ao fechar/voltar ao aplicativo.",
   "changelogI18n": {
-    "pt": "Ajuste interno: a detecção de localização (bandeira do Chat Global) agora só roda com o jogo totalmente carregado, evitando tráfego desnecessário na página de verificação de segurança.",
-    "en": "Internal tweak: Location detection (Global Chat flag) now only runs when the game is fully loaded, avoiding unnecessary traffic on the security check page.",
-    "es": "Ajuste interno: la detección de ubicación (indicador de chat global) ahora solo se ejecuta cuando el juego está completamente cargado, lo que evita tráfico innecesario en la página de control de seguridad."
+    "pt": "Correções: a bandeira do Chat Global ganhou uma segunda fonte de localização (independente do jogo) para funcionar mesmo quando o serviço do jogo está bloqueado, e as mensagens do Chat Global agora são limpas de forma confiável ao fechar/voltar ao aplicativo.",
+    "en": "Fixes: Global Chat flag gained a second location source (independent of the game) to work even when the game service is blocked, and Global Chat messages are now reliably cleared when closing/returning to the app.",
+    "es": "Correcciones: la bandera de Global Chat obtuvo una segunda fuente de ubicación (independiente del juego) para funcionar incluso cuando el servicio del juego está bloqueado, y los mensajes de Global Chat ahora se borran de manera confiable al cerrar o regresar a la aplicación."
   }
 }
