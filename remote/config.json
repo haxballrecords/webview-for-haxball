@@ -1,13 +1,13 @@
 {
-  "versionCode": 58,
+  "versionCode": 59,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção do ciclo da câmera Restricted (8): ao sair da 8 para as câmeras 1-7, o jogo agora restaura o modo de visão Dynamic (tela cheia) — antes o canvas ficava espremido no canto. Campo da câmera 8 um pouco maior (85vw).",
+  "changelog": "Correções: (1) ao entrar numa sala o modo de visão agora é Dynamic de verdade (antes o Restricted de sessão anterior persistia); (2) campo da câmera Restricted menor (68vw) — cinza cobre mais a tela, chegando no direcional; (3) ao sair da câmera 8, o keypress da câmera selecionada agora é enviado DEPOIS do restore do modo (a 7 não vira mais Dynamic).",
   "changelogI18n": {
-    "pt": "Correção do ciclo da câmera Restricted (8): ao sair da 8 para as câmeras 1-7, o jogo agora restaura o modo de visão Dynamic (tela cheia) — antes o canvas ficava espremido no canto. Campo da câmera 8 um pouco maior (85vw).",
-    "en": "Correction of the Restricted camera cycle (8): when switching from 8 to cameras 1-7, the game now restores the Dynamic view mode (full screen) — before the screen was squeezed in the corner. Camera 8 field slightly larger (85vw).",
-    "es": "Corrección del ciclo de cámara restringido (8): al cambiar de 8 a las cámaras 1 a 7, el juego ahora restaura el modo de vista dinámica (pantalla completa), antes de que la pantalla se apretujara en una esquina. Campo de cámara 8 ligeramente más grande (85vw)."
+    "pt": "Correções: (1) ao entrar numa sala o modo de visão agora é Dynamic de verdade (antes o Restricted de sessão anterior persistia); (2) campo da câmera Restricted menor (68vw) — cinza cobre mais a tela, chegando no direcional; (3) ao sair da câmera 8, o keypress da câmera selecionada agora é enviado DEPOIS do restore do modo (a 7 não vira mais Dynamic).",
+    "en": "Corrections: (1) when entering a room the vision mode is now truly Dynamic (before the Restricted from the previous session persisted); (2) smaller Restricted camera field (68vw) — gray covers more of the screen, reaching the directional pad; (3) when exiting camera 8, the keypress of the selected camera is now sent AFTER mode restore (7 no longer turns Dynamic).",
+    "es": "Correcciones: (1) al ingresar a una habitación, el modo de visión ahora es verdaderamente Dinámico (antes persistía el Restringido de la sesión anterior); (2) campo de cámara restringido más pequeño (68vw): el gris cubre una mayor parte de la pantalla y llega al teclado direccional; (3) al salir de la cámara 8, la pulsación de tecla de la cámara seleccionada ahora se envía DESPUÉS de la restauración del modo (7 ya no se vuelve Dinámico)."
   }
 }
