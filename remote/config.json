@@ -1,13 +1,13 @@
 {
-  "versionCode": 59,
+  "versionCode": 60,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correções: (1) ao entrar numa sala o modo de visão agora é Dynamic de verdade (antes o Restricted de sessão anterior persistia); (2) campo da câmera Restricted menor (68vw) — cinza cobre mais a tela, chegando no direcional; (3) ao sair da câmera 8, o keypress da câmera selecionada agora é enviado DEPOIS do restore do modo (a 7 não vira mais Dynamic).",
+  "changelog": "Câmeras em PIZZA: os botões −/+ viram 2 discos radiais — Normal (🎥, câmeras 0-7 no view mode Dynamic) e Restricted (lupa pura, as mesmas câmeras com a borda restrita 840x410). Aba Cameras no Profile (à direita de Actions) configura quais câmeras ficam em cada fatia arrastando uma sobre outra. O app lembra a última câmera escolhida e a aplica ao entrar na sala.",
   "changelogI18n": {
-    "pt": "Correções: (1) ao entrar numa sala o modo de visão agora é Dynamic de verdade (antes o Restricted de sessão anterior persistia); (2) campo da câmera Restricted menor (68vw) — cinza cobre mais a tela, chegando no direcional; (3) ao sair da câmera 8, o keypress da câmera selecionada agora é enviado DEPOIS do restore do modo (a 7 não vira mais Dynamic).",
-    "en": "Corrections: (1) when entering a room the vision mode is now truly Dynamic (before the Restricted from the previous session persisted); (2) smaller Restricted camera field (68vw) — gray covers more of the screen, reaching the directional pad; (3) when exiting camera 8, the keypress of the selected camera is now sent AFTER mode restore (7 no longer turns Dynamic).",
-    "es": "Correcciones: (1) al ingresar a una habitación, el modo de visión ahora es verdaderamente Dinámico (antes persistía el Restringido de la sesión anterior); (2) campo de cámara restringido más pequeño (68vw): el gris cubre una mayor parte de la pantalla y llega al teclado direccional; (3) al salir de la cámara 8, la pulsación de tecla de la cámara seleccionada ahora se envía DESPUÉS de la restauración del modo (7 ya no se vuelve Dinámico)."
+    "pt": "Câmeras em PIZZA: os botões −/+ viram 2 discos radiais — Normal (🎥, câmeras 0-7 no view mode Dynamic) e Restricted (lupa pura, as mesmas câmeras com a borda restrita 840x410). Aba Cameras no Profile (à direita de Actions) configura quais câmeras ficam em cada fatia arrastando uma sobre outra. O app lembra a última câmera escolhida e a aplica ao entrar na sala.",
+    "en": "Cameras in PIZZA: the −/+ buttons turn 2 radial discs — Normal (🎥, cameras 0-7 in Dynamic view mode) and Restricted (pure magnifying glass, the same cameras with the restricted border 840x410). The Cameras tab in Profile (to the right of Actions) configures which cameras are in each slice by dragging one over the other. The app remembers the last camera chosen and applies it when entering the room.",
+    "es": "Cámaras en PIZZA: los botones −/+ hacen girar 2 discos radiales: Normal (🎥, cámaras 0-7 en modo de vista dinámica) y Restringido (lupa pura, las mismas cámaras con el borde restringido 840x410). La pestaña Cámaras en Perfil (a la derecha de Acciones) configura qué cámaras están en cada sector arrastrando una sobre la otra. La aplicación recuerda la última cámara elegida y la aplica al entrar a la habitación."
   }
 }
