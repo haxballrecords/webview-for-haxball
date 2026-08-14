@@ -1,13 +1,13 @@
 {
-  "versionCode": 70,
-  "versionName": "2.43",
+  "versionCode": 71,
+  "versionName": "2.44",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Câmera Dynamic (0) aplicada ao entrar na sala: o slider da Área de Jogo já funciona sem tocar no botão de câmera. Quadra centralizada na área de jogo (espaço igual em cima e embaixo) em todas as câmeras (0-7) e qualquer porcentagem. Área de Jogo a 100% agora preenche a tela inteira, sem sobras nas laterais nem embaixo.",
+  "changelog": "Correção do loop da tela de verificação do Cloudflare e do download que parecia congelar: o app não injeta mais nada na página de desafio, recuperação automática com cookies limpos, e download de atualização com progresso, validação do APK e instalação guiada.",
   "changelogI18n": {
-    "pt": "Câmera Dynamic (0) aplicada ao entrar na sala: o slider da Área de Jogo já funciona sem tocar no botão de câmera. Quadra centralizada na área de jogo (espaço igual em cima e embaixo) em todas as câmeras (0-7) e qualquer porcentagem. Área de Jogo a 100% agora preenche a tela inteira, sem sobras nas laterais nem embaixo.",
-    "en": "Dynamic Camera (0) applied when entering the room: the Play Area slider now works without touching the camera button. Court centered on the playing area (equal space top and bottom) on all cameras (0-7) and any percentage. 100% Game Area now fills the entire screen, with no leftovers on the sides or bottom.",
-    "es": "Cámara dinámica (0) aplicada al ingresar a la habitación: el control deslizante del Área de reproducción ahora funciona sin tocar el botón de la cámara. Cancha centrada en el área de juego (igual espacio arriba y abajo) en todas las cámaras (0-7) y cualquier porcentaje. El área de juego 100% ahora ocupa toda la pantalla, sin restos en los lados ni en la parte inferior."
+    "pt": "Correção do loop da tela de verificação do Cloudflare e do download que parecia congelar: o app não injeta mais nada na página de desafio, recuperação automática com cookies limpos, e download de atualização com progresso, validação do APK e instalação guiada.",
+    "en": "Fixed Cloudflare verification screen loop and download appearing to freeze: the app no ​​longer injects anything into the challenge page, automatic recovery with cleared cookies, and update download with progress, APK validation and guided installation.",
+    "es": "Se corrigió el bucle de la pantalla de verificación de Cloudflare y la descarga que parecía congelarse: la aplicación ya no inyecta nada en la página de desafío, recuperación automática con cookies borradas y descarga de actualización con progreso, validación de APK e instalación guiada."
   }
 }
