@@ -1,13 +1,13 @@
 {
-  "versionCode": 56,
+  "versionCode": 57,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção da câmera Restricted (8): o campo agora fica menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (o app estava anulando o 840x410 nativo do jogo).",
+  "changelog": "Correção crítica: app abria só o site nativo sem o HUD (crase em comentário CSS quebrava o bundle em runtime — agora o build falha se o CSS tiver crase ou ${).",
   "changelogI18n": {
-    "pt": "Correção da câmera Restricted (8): o campo agora fica menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (o app estava anulando o 840x410 nativo do jogo).",
-    "en": "Restricted camera fix (8): the field is now smaller and centered, with the gray background covering the sides and top/bottom (the app was canceling the game's native 840x410).",
-    "es": "Corrección de cámara restringida (8): el campo ahora es más pequeño y centrado, con el fondo gris cubriendo los lados y la parte superior/inferior (la aplicación estaba cancelando el 840x410 nativo del juego)."
+    "pt": "Correção crítica: app abria só o site nativo sem o HUD (crase em comentário CSS quebrava o bundle em runtime — agora o build falha se o CSS tiver crase ou ${).",
+    "en": "Critical fix: app only opened the native website without the HUD (backticks in CSS comments broke the bundle at runtime — now the build fails if the CSS has backticks or ${).",
+    "es": "Solución crítica: la aplicación solo abrió el sitio web nativo sin el HUD (las comillas invertidas en los comentarios CSS rompieron el paquete en tiempo de ejecución; ahora la compilación falla si el CSS tiene comillas invertidas o ${)."
   }
 }
