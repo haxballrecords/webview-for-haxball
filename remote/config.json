@@ -1,13 +1,13 @@
 {
-  "versionCode": 53,
+  "versionCode": 54,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
+  "changelog": "Sub-Pulse reescalado: o slider agora vai de 1 a 8 toques por segundo (ritmo humano, sem tremida na extrapolação alta) e vem desligado por padrão — ligue no Ajustes e regule por mapa.",
   "changelogI18n": {
-    "pt": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
-    "en": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro).",
-    "es": "Melhoria no analógico: no modo travado, tocar na extremidade do botão já move o jogador na hora (sem precisar arrastar do centro)."
+    "pt": "Sub-Pulse reescalado: o slider agora vai de 1 a 8 toques por segundo (ritmo humano, sem tremida na extrapolação alta) e vem desligado por padrão — ligue no Ajustes e regule por mapa.",
+    "en": "Sub-Pulse rescaled: the slider now goes from 1 to 8 taps per second (human rhythm, no jitter at high extrapolation) and is turned off by default — turn it on in Settings and adjust by map.",
+    "es": "Subpulso reescalado: el control deslizante ahora pasa de 1 a 8 toques por segundo (ritmo humano, sin fluctuaciones en alta extrapolación) y está desactivado de forma predeterminada; actívelo en Configuración y ajústelo por mapa."
   }
 }
