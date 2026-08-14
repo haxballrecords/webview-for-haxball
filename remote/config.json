@@ -1,13 +1,13 @@
 {
-  "versionCode": 66,
+  "versionCode": 67,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Câmeras Restricted: borda colada no canvas (sem vão nas laterais)",
+  "changelog": "Câmeras Restricted: borda colada no canvas (proporção real do buffer)",
   "changelogI18n": {
-    "pt": "Câmeras Restricted: borda colada no canvas (sem vão nas laterais)",
-    "en": "Restricted cameras: edge glued to the canvas (no gaps on the sides)",
-    "es": "Cámaras restringidas: borde pegado a la lona (sin huecos en los laterales)"
+    "pt": "Câmeras Restricted: borda colada no canvas (proporção real do buffer)",
+    "en": "Restricted cameras: border pasted to canvas (actual buffer proportion)",
+    "es": "Cámaras restringidas: borde pegado al lienzo (proporción de búfer real)"
   }
 }
