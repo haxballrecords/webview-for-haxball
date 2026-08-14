@@ -1,13 +1,13 @@
 {
-  "versionCode": 68,
-  "versionName": "2.41",
+  "versionCode": 69,
+  "versionName": "2.42",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Câmera Restricted (0): o campo agora preenche a moldura — as bordas laterais ficam encostadas na tela do jogo, sem o espaço cinza entre elas.",
+  "changelog": "Câmera Restricted (0): a moldura agora fica colada na tela do jogo nas laterais — o espaço escuro entre a borda e o conteúdo sumiu, sem mudar o tamanho do campo.",
   "changelogI18n": {
-    "pt": "Câmera Restricted (0): o campo agora preenche a moldura — as bordas laterais ficam encostadas na tela do jogo, sem o espaço cinza entre elas.",
-    "en": "Restricted Camera (0): the field now fills the frame — the side edges are flush against the game screen, without the gray space between them.",
-    "es": "Cámara restringida (0): el campo ahora llena el marco: los bordes laterales están alineados con la pantalla del juego, sin el espacio gris entre ellos."
+    "pt": "Câmera Restricted (0): a moldura agora fica colada na tela do jogo nas laterais — o espaço escuro entre a borda e o conteúdo sumiu, sem mudar o tamanho do campo.",
+    "en": "Restricted Camera (0): the frame is now glued to the game screen on the sides — the dark space between the border and the content is gone, without changing the size of the field.",
+    "es": "Cámara restringida (0): el marco ahora está pegado a la pantalla del juego en los lados; el espacio oscuro entre el borde y el contenido desapareció, sin cambiar el tamaño del campo."
   }
 }
