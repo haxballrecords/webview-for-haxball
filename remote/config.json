@@ -1,13 +1,13 @@
 {
-  "versionCode": 55,
+  "versionCode": 56,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Nova câmera Restricted (8): o view mode restrito 840x410 do próprio jogo agora deixa o campo menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (cobre a área do direcional).",
+  "changelog": "Correção da câmera Restricted (8): o campo agora fica menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (o app estava anulando o 840x410 nativo do jogo).",
   "changelogI18n": {
-    "pt": "Nova câmera Restricted (8): o view mode restrito 840x410 do próprio jogo agora deixa o campo menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (cobre a área do direcional).",
-    "en": "New Restricted camera (8): the game's own 840x410 restricted view mode now leaves the field smaller and centered, with the gray background covering the sides and top/bottom (covers the directional area).",
-    "es": "Nueva cámara restringida (8): el modo de vista restringida de 840x410 del juego ahora deja el campo más pequeño y centrado, con el fondo gris cubriendo los lados y la parte superior/inferior (cubre el área direccional)."
+    "pt": "Correção da câmera Restricted (8): o campo agora fica menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (o app estava anulando o 840x410 nativo do jogo).",
+    "en": "Restricted camera fix (8): the field is now smaller and centered, with the gray background covering the sides and top/bottom (the app was canceling the game's native 840x410).",
+    "es": "Corrección de cámara restringida (8): el campo ahora es más pequeño y centrado, con el fondo gris cubriendo los lados y la parte superior/inferior (la aplicación estaba cancelando el 840x410 nativo del juego)."
   }
 }
