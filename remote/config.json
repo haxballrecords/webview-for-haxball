@@ -1,13 +1,13 @@
 {
-  "versionCode": 57,
+  "versionCode": 58,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção crítica: app abria só o site nativo sem o HUD (crase em comentário CSS quebrava o bundle em runtime — agora o build falha se o CSS tiver crase ou ${).",
+  "changelog": "Correção do ciclo da câmera Restricted (8): ao sair da 8 para as câmeras 1-7, o jogo agora restaura o modo de visão Dynamic (tela cheia) — antes o canvas ficava espremido no canto. Campo da câmera 8 um pouco maior (85vw).",
   "changelogI18n": {
-    "pt": "Correção crítica: app abria só o site nativo sem o HUD (crase em comentário CSS quebrava o bundle em runtime — agora o build falha se o CSS tiver crase ou ${).",
-    "en": "Critical fix: app only opened the native website without the HUD (backticks in CSS comments broke the bundle at runtime — now the build fails if the CSS has backticks or ${).",
-    "es": "Solución crítica: la aplicación solo abrió el sitio web nativo sin el HUD (las comillas invertidas en los comentarios CSS rompieron el paquete en tiempo de ejecución; ahora la compilación falla si el CSS tiene comillas invertidas o ${)."
+    "pt": "Correção do ciclo da câmera Restricted (8): ao sair da 8 para as câmeras 1-7, o jogo agora restaura o modo de visão Dynamic (tela cheia) — antes o canvas ficava espremido no canto. Campo da câmera 8 um pouco maior (85vw).",
+    "en": "Correction of the Restricted camera cycle (8): when switching from 8 to cameras 1-7, the game now restores the Dynamic view mode (full screen) — before the screen was squeezed in the corner. Camera 8 field slightly larger (85vw).",
+    "es": "Corrección del ciclo de cámara restringido (8): al cambiar de 8 a las cámaras 1 a 7, el juego ahora restaura el modo de vista dinámica (pantalla completa), antes de que la pantalla se apretujara en una esquina. Campo de cámara 8 ligeramente más grande (85vw)."
   }
 }
