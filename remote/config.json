@@ -1,13 +1,13 @@
 {
-  "versionCode": 69,
-  "versionName": "2.42",
+  "versionCode": 70,
+  "versionName": "2.43",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Câmera Restricted (0): a moldura agora fica colada na tela do jogo nas laterais — o espaço escuro entre a borda e o conteúdo sumiu, sem mudar o tamanho do campo.",
+  "changelog": "Câmera Dynamic (0) aplicada ao entrar na sala: o slider da Área de Jogo já funciona sem tocar no botão de câmera. Quadra centralizada na área de jogo (espaço igual em cima e embaixo) em todas as câmeras (0-7) e qualquer porcentagem. Área de Jogo a 100% agora preenche a tela inteira, sem sobras nas laterais nem embaixo.",
   "changelogI18n": {
-    "pt": "Câmera Restricted (0): a moldura agora fica colada na tela do jogo nas laterais — o espaço escuro entre a borda e o conteúdo sumiu, sem mudar o tamanho do campo.",
-    "en": "Restricted Camera (0): the frame is now glued to the game screen on the sides — the dark space between the border and the content is gone, without changing the size of the field.",
-    "es": "Cámara restringida (0): el marco ahora está pegado a la pantalla del juego en los lados; el espacio oscuro entre el borde y el contenido desapareció, sin cambiar el tamaño del campo."
+    "pt": "Câmera Dynamic (0) aplicada ao entrar na sala: o slider da Área de Jogo já funciona sem tocar no botão de câmera. Quadra centralizada na área de jogo (espaço igual em cima e embaixo) em todas as câmeras (0-7) e qualquer porcentagem. Área de Jogo a 100% agora preenche a tela inteira, sem sobras nas laterais nem embaixo.",
+    "en": "Dynamic Camera (0) applied when entering the room: the Play Area slider now works without touching the camera button. Court centered on the playing area (equal space top and bottom) on all cameras (0-7) and any percentage. 100% Game Area now fills the entire screen, with no leftovers on the sides or bottom.",
+    "es": "Cámara dinámica (0) aplicada al ingresar a la habitación: el control deslizante del Área de reproducción ahora funciona sin tocar el botón de la cámara. Cancha centrada en el área de juego (igual espacio arriba y abajo) en todas las cámaras (0-7) y cualquier porcentaje. El área de juego 100% ahora ocupa toda la pantalla, sin restos en los lados ni en la parte inferior."
   }
 }
