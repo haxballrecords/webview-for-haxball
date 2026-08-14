@@ -1,13 +1,13 @@
 {
-  "versionCode": 62,
+  "versionCode": 63,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Câmeras restricted consertadas: agora o canvas fica num FRAME FIXO no centro da tela, com a borda cinza ao redor IGUAL em todas as câmeras, e o zoom (câmera N = 1.25..2.75x) acontece DENTRO do frame (nada de borda sumindo nas câmeras altas). Cada câmera agora tem um zoom diferente (0 = campo inteiro, 1 = 1.25x, ... 7 = 2.75x).",
+  "changelog": "Câmeras Restricted refeitas (nova abordagem): o view mode Restricted do jogo foi EXTINGUIDO — Restricted agora é só o nome da moldura. As câmeras 0-7 do restricted usam as MESMAS câmeras normais (zoom NATIVO do jogo: 0 = Dynamic, 1-7 = Full 1x..2.5x), com o canvas REDUZIDO a 50% e centralizado, com borda desenhada pelo app e fundo cinza ao redor — a moldura fica IGUAL e FIXA em todas as câmeras (nada de borda bugando a cada troca).",
   "changelogI18n": {
-    "pt": "Câmeras restricted consertadas: agora o canvas fica num FRAME FIXO no centro da tela, com a borda cinza ao redor IGUAL em todas as câmeras, e o zoom (câmera N = 1.25..2.75x) acontece DENTRO do frame (nada de borda sumindo nas câmeras altas). Cada câmera agora tem um zoom diferente (0 = campo inteiro, 1 = 1.25x, ... 7 = 2.75x).",
-    "en": "Restricted cameras fixed: now the canvas is in a FIXED FRAME in the center of the screen, with the gray border around it EQUAL in all cameras, and the zoom (camera N = 1.25..2.75x) happens WITHIN the frame (no border disappearing in high cameras). Each camera now has a different zoom (0 = full field, 1 = 1.25x, ... 7 = 2.75x).",
-    "es": "Cámaras restringidas arregladas: ahora el lienzo está en un MARCO FIJO en el centro de la pantalla, con el borde gris a su alrededor IGUAL en todas las cámaras, y el zoom (cámara N = 1.25..2.75x) ocurre DENTRO del marco (ningún borde desaparece en las cámaras altas). Cada cámara ahora tiene un zoom diferente (0 = campo completo, 1 = 1,25x, ... 7 = 2,75x)."
+    "pt": "Câmeras Restricted refeitas (nova abordagem): o view mode Restricted do jogo foi EXTINGUIDO — Restricted agora é só o nome da moldura. As câmeras 0-7 do restricted usam as MESMAS câmeras normais (zoom NATIVO do jogo: 0 = Dynamic, 1-7 = Full 1x..2.5x), com o canvas REDUZIDO a 50% e centralizado, com borda desenhada pelo app e fundo cinza ao redor — a moldura fica IGUAL e FIXA em todas as câmeras (nada de borda bugando a cada troca).",
+    "en": "Redone Restricted Cameras (new approach): the game's Restricted view mode has been DELETED — Restricted is now just the name of the frame. Restricted cameras 0-7 use the SAME normal cameras (game's NATIVE zoom: 0 = Dynamic, 1-7 = Full 1x..2.5x), with the canvas REDUCED to 50% and centered, with a border drawn by the app and a gray background around it — the frame remains the EQUAL and FIXED on all cameras (no borders buggy with each change).",
+    "es": "Cámaras restringidas rehechas (nuevo enfoque): el modo de vista restringida del juego ha sido ELIMINADO; Restringido ahora es solo el nombre del marco. Las cámaras restringidas 0-7 usan las MISMAS cámaras normales (zoom NATIVO del juego: 0 = Dinámico, 1-7 = Completo 1x..2.5x), con el lienzo REDUCIDO al 50 % y centrado, con un borde dibujado por la aplicación y un fondo gris a su alrededor; el marco sigue siendo IGUAL y FIJO en todas las cámaras (sin bordes defectuosos con cada cambio)."
   }
 }
