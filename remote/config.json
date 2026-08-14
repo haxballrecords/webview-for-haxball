@@ -1,13 +1,13 @@
 {
-  "versionCode": 54,
+  "versionCode": 55,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Sub-Pulse reescalado: o slider agora vai de 1 a 8 toques por segundo (ritmo humano, sem tremida na extrapolação alta) e vem desligado por padrão — ligue no Ajustes e regule por mapa.",
+  "changelog": "Nova câmera Restricted (8): o view mode restrito 840x410 do próprio jogo agora deixa o campo menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (cobre a área do direcional).",
   "changelogI18n": {
-    "pt": "Sub-Pulse reescalado: o slider agora vai de 1 a 8 toques por segundo (ritmo humano, sem tremida na extrapolação alta) e vem desligado por padrão — ligue no Ajustes e regule por mapa.",
-    "en": "Sub-Pulse rescaled: the slider now goes from 1 to 8 taps per second (human rhythm, no jitter at high extrapolation) and is turned off by default — turn it on in Settings and adjust by map.",
-    "es": "Subpulso reescalado: el control deslizante ahora pasa de 1 a 8 toques por segundo (ritmo humano, sin fluctuaciones en alta extrapolación) y está desactivado de forma predeterminada; actívelo en Configuración y ajústelo por mapa."
+    "pt": "Nova câmera Restricted (8): o view mode restrito 840x410 do próprio jogo agora deixa o campo menor e centralizado, com o fundo cinza cobrindo as laterais e o topo/baixo (cobre a área do direcional).",
+    "en": "New Restricted camera (8): the game's own 840x410 restricted view mode now leaves the field smaller and centered, with the gray background covering the sides and top/bottom (covers the directional area).",
+    "es": "Nueva cámara restringida (8): el modo de vista restringida de 840x410 del juego ahora deja el campo más pequeño y centrado, con el fondo gris cubriendo los lados y la parte superior/inferior (cubre el área direccional)."
   }
 }
