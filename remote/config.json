@@ -1,13 +1,13 @@
 {
-  "versionCode": 65,
+  "versionCode": 66,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção da moldura Restricted: o cinza do .game-view cobria o canvas (z-index:-1 do jogo) — remoção do background no .game-view; o cinza agora vem só do .game-state-view (full-screen). Canvas 50% centrado com borda visível em todas as câmeras restricted.",
+  "changelog": "Câmeras Restricted: borda colada no canvas (sem vão nas laterais)",
   "changelogI18n": {
-    "pt": "Correção da moldura Restricted: o cinza do .game-view cobria o canvas (z-index:-1 do jogo) — remoção do background no .game-view; o cinza agora vem só do .game-state-view (full-screen). Canvas 50% centrado com borda visível em todas as câmeras restricted.",
-    "en": "Correction of the Restricted frame: the gray of the .game-view covered the canvas (z-index:-1 of the game) — removal of the background in the .game-view; the gray now only comes from .game-state-view (full-screen). Canvas 50% centered with border visible on all cameras restricted.",
-    "es": "Corrección del marco restringido: el gris de la vista .game cubrió el lienzo (índice z: -1 del juego) — eliminación del fondo en la vista .game; el gris ahora solo proviene de .game-state-view (pantalla completa). Lienzo 50 % centrado con borde visible en todas las cámaras restringido."
+    "pt": "Câmeras Restricted: borda colada no canvas (sem vão nas laterais)",
+    "en": "Restricted cameras: edge glued to the canvas (no gaps on the sides)",
+    "es": "Cámaras restringidas: borde pegado a la lona (sin huecos en los laterales)"
   }
 }
