@@ -1,13 +1,13 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "versionName": "2.40",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção da moldura Restricted (a tela ficava toda cinza sem o canvas): o jogo RECRIA o canvas a cada troca de view mode (cada tecla de câmera) — a versão anterior movia o canvas pra dentro de uma moldura e o jogo o arrancava de lá, deixando a moldura vazia e o canvas solto. Agora a moldura é 100% CSS, SEM mexer no DOM: o .game-state-view vira flex-centro com fundo cinza e o canvas fica reduzido a 50% com borda — a moldura acompanha QUALQUER canvas que o jogo criar, igual e fixa em todas as câmeras.",
+  "changelog": "Correção da moldura Restricted: o cinza do .game-view cobria o canvas (z-index:-1 do jogo) — remoção do background no .game-view; o cinza agora vem só do .game-state-view (full-screen). Canvas 50% centrado com borda visível em todas as câmeras restricted.",
   "changelogI18n": {
-    "pt": "Correção da moldura Restricted (a tela ficava toda cinza sem o canvas): o jogo RECRIA o canvas a cada troca de view mode (cada tecla de câmera) — a versão anterior movia o canvas pra dentro de uma moldura e o jogo o arrancava de lá, deixando a moldura vazia e o canvas solto. Agora a moldura é 100% CSS, SEM mexer no DOM: o .game-state-view vira flex-centro com fundo cinza e o canvas fica reduzido a 50% com borda — a moldura acompanha QUALQUER canvas que o jogo criar, igual e fixa em todas as câmeras.",
-    "en": "Correction of the Restricted frame (the screen was completely gray without the canvas): the game RECREATES the canvas with each change of view mode (each camera key) — the previous version moved the canvas into a frame and the game ripped it out of there, leaving the frame empty and the canvas loose. Now the frame is 100% CSS, WITHOUT changing the DOM: the .game-state-view becomes flex-center with a gray background and the canvas is reduced to 50% with a border — the frame follows ANY canvas that the game creates, the same and fixed in all cameras.",
-    "es": "Corrección del marco restringido (la pantalla estaba completamente gris sin el lienzo): el juego RECREA el lienzo con cada cambio de modo de vista (cada tecla de la cámara); la versión anterior movió el lienzo a un marco y el juego lo arrancó de allí, dejando el marco vacío y el lienzo suelto. Ahora el marco es 100% CSS, SIN cambiar el DOM: la vista .game-state-view se vuelve flexible con un fondo gris y el lienzo se reduce al 50% con un borde; el marco sigue CUALQUIER lienzo que cree el juego, el mismo y fijo en todas las cámaras."
+    "pt": "Correção da moldura Restricted: o cinza do .game-view cobria o canvas (z-index:-1 do jogo) — remoção do background no .game-view; o cinza agora vem só do .game-state-view (full-screen). Canvas 50% centrado com borda visível em todas as câmeras restricted.",
+    "en": "Correction of the Restricted frame: the gray of the .game-view covered the canvas (z-index:-1 of the game) — removal of the background in the .game-view; the gray now only comes from .game-state-view (full-screen). Canvas 50% centered with border visible on all cameras restricted.",
+    "es": "Corrección del marco restringido: el gris de la vista .game cubrió el lienzo (índice z: -1 del juego) — eliminación del fondo en la vista .game; el gris ahora solo proviene de .game-state-view (pantalla completa). Lienzo 50 % centrado con borde visible en todas las cámaras restringido."
   }
 }
