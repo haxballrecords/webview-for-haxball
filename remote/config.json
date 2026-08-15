@@ -1,13 +1,13 @@
 {
-  "versionCode": 75,
-  "versionName": "2.47",
+  "versionCode": 76,
+  "versionName": "2.48",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Ícone novo do app. Chat global agora mantém o histórico completo: fechar e reabrir o app (ou até desinstalar/reinstalar) não apaga as mensagens — as últimas 500 ficam salvas no servidor. Cada mensagem mostra data/hora antes da bandeira e do apelido.",
+  "changelog": "Novas notificações de chat: mensagens não lidas aparecem somadas no canto do preview (Global + Local) e cada aba mostra a sua contagem — mensagens já lidas nunca mais notificam. O campo de Avatar agora aceita letras minúsculas e maiúsculas.",
   "changelogI18n": {
-    "pt": "Ícone novo do app. Chat global agora mantém o histórico completo: fechar e reabrir o app (ou até desinstalar/reinstalar) não apaga as mensagens — as últimas 500 ficam salvas no servidor. Cada mensagem mostra data/hora antes da bandeira e do apelido.",
-    "en": "New app icon. Global chat now maintains the complete history: closing and reopening the app (or even uninstalling/reinstalling) does not delete messages — the last 500 are saved on the server. Each message shows date/time before the flag and nickname.",
-    "es": "Nuevo ícono de aplicación. El chat global ahora mantiene el historial completo: cerrar y volver a abrir la aplicación (o incluso desinstalarla/reinstalarla) no elimina los mensajes: los últimos 500 se guardan en el servidor. Cada mensaje muestra la fecha/hora antes de la bandera y el apodo."
+    "pt": "Novas notificações de chat: mensagens não lidas aparecem somadas no canto do preview (Global + Local) e cada aba mostra a sua contagem — mensagens já lidas nunca mais notificam. O campo de Avatar agora aceita letras minúsculas e maiúsculas.",
+    "en": "New chat notifications: unread messages appear added to the corner of the preview (Global + Local) and each tab shows its count — already read messages never notify again. The Avatar field now supports lowercase and uppercase letters.",
+    "es": "Notificaciones de chat nuevas: los mensajes no leídos aparecen agregados en la esquina de la vista previa (Global + Local) y cada pestaña muestra su recuento; los mensajes ya leídos nunca vuelven a notificarse. El campo Avatar ahora admite letras minúsculas y mayúsculas."
   }
 }
