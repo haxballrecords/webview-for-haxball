@@ -1,13 +1,13 @@
 {
-  "versionCode": 71,
-  "versionName": "2.44",
+  "versionCode": 72,
+  "versionName": "2.45",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção do loop da tela de verificação do Cloudflare e do download que parecia congelar: o app não injeta mais nada na página de desafio, recuperação automática com cookies limpos, e download de atualização com progresso, validação do APK e instalação guiada.",
+  "changelog": "Correção do loop de verificação de segurança do Cloudflare; anúncio 50% menor; bloqueio do Download Manager; pizzas mais sensíveis; sliders de limite travam ao iniciar a partida; chat global migrado para a VPS.",
   "changelogI18n": {
-    "pt": "Correção do loop da tela de verificação do Cloudflare e do download que parecia congelar: o app não injeta mais nada na página de desafio, recuperação automática com cookies limpos, e download de atualização com progresso, validação do APK e instalação guiada.",
-    "en": "Fixed Cloudflare verification screen loop and download appearing to freeze: the app no ​​longer injects anything into the challenge page, automatic recovery with cleared cookies, and update download with progress, APK validation and guided installation.",
-    "es": "Se corrigió el bucle de la pantalla de verificación de Cloudflare y la descarga que parecía congelarse: la aplicación ya no inyecta nada en la página de desafío, recuperación automática con cookies borradas y descarga de actualización con progreso, validación de APK e instalación guiada."
+    "pt": "Correção do loop de verificação de segurança do Cloudflare; anúncio 50% menor; bloqueio do Download Manager; pizzas mais sensíveis; sliders de limite travam ao iniciar a partida; chat global migrado para a VPS.",
+    "en": "Fixed Cloudflare security check loop; 50% smaller ad; Download Manager blocking; more sensitive pizzas; limit sliders lock when starting the match; global chat migrated to VPS.",
+    "es": "Se corrigió el bucle de control de seguridad de Cloudflare; Anuncio 50% más pequeño; Bloqueo del Administrador de descargas; pizzas más sensibles; limitar el bloqueo de los controles deslizantes al iniciar el partido; El chat global migró a VPS."
   }
 }
