@@ -1,13 +1,13 @@
 {
-  "versionCode": 72,
-  "versionName": "2.45",
+  "versionCode": 73,
+  "versionName": "2.46",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Correção do loop de verificação de segurança do Cloudflare; anúncio 50% menor; bloqueio do Download Manager; pizzas mais sensíveis; sliders de limite travam ao iniciar a partida; chat global migrado para a VPS.",
+  "changelog": "Chat global ancorado na base da janela: mensagens novas surgem embaixo e as antigas sobem.",
   "changelogI18n": {
-    "pt": "Correção do loop de verificação de segurança do Cloudflare; anúncio 50% menor; bloqueio do Download Manager; pizzas mais sensíveis; sliders de limite travam ao iniciar a partida; chat global migrado para a VPS.",
-    "en": "Fixed Cloudflare security check loop; 50% smaller ad; Download Manager blocking; more sensitive pizzas; limit sliders lock when starting the match; global chat migrated to VPS.",
-    "es": "Se corrigió el bucle de control de seguridad de Cloudflare; Anuncio 50% más pequeño; Bloqueo del Administrador de descargas; pizzas más sensibles; limitar el bloqueo de los controles deslizantes al iniciar el partido; El chat global migró a VPS."
+    "pt": "Chat global ancorado na base da janela: mensagens novas surgem embaixo e as antigas sobem.",
+    "en": "Global chat anchored to the bottom of the window: new messages appear at the bottom and old ones go up.",
+    "es": "Chat global anclado en la parte inferior de la ventana: los mensajes nuevos aparecen en la parte inferior y los antiguos suben."
   }
 }
