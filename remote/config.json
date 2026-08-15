@@ -1,13 +1,13 @@
 {
-  "versionCode": 73,
-  "versionName": "2.46",
+  "versionCode": 75,
+  "versionName": "2.47",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Chat global ancorado na base da janela: mensagens novas surgem embaixo e as antigas sobem.",
+  "changelog": "Ícone novo do app. Chat global agora mantém o histórico completo: fechar e reabrir o app (ou até desinstalar/reinstalar) não apaga as mensagens — as últimas 500 ficam salvas no servidor. Cada mensagem mostra data/hora antes da bandeira e do apelido.",
   "changelogI18n": {
-    "pt": "Chat global ancorado na base da janela: mensagens novas surgem embaixo e as antigas sobem.",
-    "en": "Global chat anchored to the bottom of the window: new messages appear at the bottom and old ones go up.",
-    "es": "Chat global anclado en la parte inferior de la ventana: los mensajes nuevos aparecen en la parte inferior y los antiguos suben."
+    "pt": "Ícone novo do app. Chat global agora mantém o histórico completo: fechar e reabrir o app (ou até desinstalar/reinstalar) não apaga as mensagens — as últimas 500 ficam salvas no servidor. Cada mensagem mostra data/hora antes da bandeira e do apelido.",
+    "en": "New app icon. Global chat now maintains the complete history: closing and reopening the app (or even uninstalling/reinstalling) does not delete messages — the last 500 are saved on the server. Each message shows date/time before the flag and nickname.",
+    "es": "Nuevo ícono de aplicación. El chat global ahora mantiene el historial completo: cerrar y volver a abrir la aplicación (o incluso desinstalarla/reinstalarla) no elimina los mensajes: los últimos 500 se guardan en el servidor. Cada mensaje muestra la fecha/hora antes de la bandera y el apodo."
   }
 }
