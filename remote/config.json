@@ -1,13 +1,13 @@
 {
-  "versionCode": 76,
-  "versionName": "2.48",
+  "versionCode": 77,
+  "versionName": "2.49",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Novas notificações de chat: mensagens não lidas aparecem somadas no canto do preview (Global + Local) e cada aba mostra a sua contagem — mensagens já lidas nunca mais notificam. O campo de Avatar agora aceita letras minúsculas e maiúsculas.",
+  "changelog": "Correções nas notificações de chat: o Global agora soma mensagens também dentro de salas (antes só com a aba Global ativa), mensagens suas e o status de conexão não geram mais notificação, e os balões usam o design do app e zeram na hora ao abrir o chat.",
   "changelogI18n": {
-    "pt": "Novas notificações de chat: mensagens não lidas aparecem somadas no canto do preview (Global + Local) e cada aba mostra a sua contagem — mensagens já lidas nunca mais notificam. O campo de Avatar agora aceita letras minúsculas e maiúsculas.",
-    "en": "New chat notifications: unread messages appear added to the corner of the preview (Global + Local) and each tab shows its count — already read messages never notify again. The Avatar field now supports lowercase and uppercase letters.",
-    "es": "Notificaciones de chat nuevas: los mensajes no leídos aparecen agregados en la esquina de la vista previa (Global + Local) y cada pestaña muestra su recuento; los mensajes ya leídos nunca vuelven a notificarse. El campo Avatar ahora admite letras minúsculas y mayúsculas."
+    "pt": "Correções nas notificações de chat: o Global agora soma mensagens também dentro de salas (antes só com a aba Global ativa), mensagens suas e o status de conexão não geram mais notificação, e os balões usam o design do app e zeram na hora ao abrir o chat.",
+    "en": "Corrections to chat notifications: Global now also adds messages within rooms (previously only with the Global tab active), your messages and connection status no longer generate notification, and the bubbles use the app's design and reset immediately when opening the chat.",
+    "es": "Correcciones a las notificaciones de chat: Global ahora también agrega mensajes dentro de las salas (anteriormente solo con la pestaña Global activa), sus mensajes y estado de conexión ya no generan notificaciones, y las burbujas usan el diseño de la aplicación y se reinician inmediatamente al abrir el chat."
   }
 }
