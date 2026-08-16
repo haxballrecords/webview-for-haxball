@@ -1,13 +1,13 @@
 {
-  "versionCode": 82,
-  "versionName": "2.54",
+  "versionCode": 83,
+  "versionName": "2.55",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Corrigida a atualização no iPhone: o .ipa anterior já estava no mesmo código publicado, então o badge de atualização ficava apagado. Agora a v2.54 acende o badge no iPhone e no Android e traz as novidades: botão 'Salvar .txt' (Settings > Video > 'Show diagnostic button'), chat global abrindo sempre nas mensagens mais recentes e mensagens enviadas por você no canal chatglobal-log do Discord aparecendo no chat global do app.",
+  "changelog": "Agora a atualização no iPhone instala direto pelo app, como no Android: ao tocar em 'Atualizar agora', o iOS mostra o prompt de instalação e atualiza o app por cima — sem baixar o .ipa no Safari nem reinstalar manualmente. O badge de atualização acende no Android e no iPhone sempre que houver versão nova (e a versão do iOS agora é sincronizada automaticamente em cada release).",
   "changelogI18n": {
-    "pt": "Corrigida a atualização no iPhone: o .ipa anterior já estava no mesmo código publicado, então o badge de atualização ficava apagado. Agora a v2.54 acende o badge no iPhone e no Android e traz as novidades: botão 'Salvar .txt' (Settings > Video > 'Show diagnostic button'), chat global abrindo sempre nas mensagens mais recentes e mensagens enviadas por você no canal chatglobal-log do Discord aparecendo no chat global do app.",
-    "en": "Fixed the update on the iPhone: the previous .ipa was already in the same published code, so the update badge was erased. Now v2.54 lights up the badge on iPhone and Android and brings new features: 'Save .txt' button (Settings > Video > 'Show diagnostic button'), global chat always opening in the most recent messages and messages sent by you in Discord's chatglobal-log channel appearing in the app's global chat.",
-    "es": "Se corrigió la actualización en el iPhone: el .ipa anterior ya estaba en el mismo código publicado, por lo que se borró la insignia de actualización. Ahora la v2.54 ilumina la insignia en iPhone y Android y trae nuevas características: botón 'Guardar .txt' (Configuración > Video > 'Mostrar botón de diagnóstico'), el chat global siempre se abre en los mensajes más recientes y los mensajes enviados por usted en el canal chatglobal-log de Discord que aparecen en el chat global de la aplicación."
+    "pt": "Agora a atualização no iPhone instala direto pelo app, como no Android: ao tocar em 'Atualizar agora', o iOS mostra o prompt de instalação e atualiza o app por cima — sem baixar o .ipa no Safari nem reinstalar manualmente. O badge de atualização acende no Android e no iPhone sempre que houver versão nova (e a versão do iOS agora é sincronizada automaticamente em cada release).",
+    "en": "Now the update on the iPhone installs directly through the app, like on Android: when you tap 'Update now', iOS shows the installation prompt and updates the app over the top — without downloading the .ipa in Safari or manually reinstalling it. The update badge lights up on Android and iPhone whenever there is a new version (and the iOS version is now automatically synchronized with each release).",
+    "es": "Ahora la actualización en el iPhone se instala directamente a través de la aplicación, como en Android: cuando tocas 'Actualizar ahora', iOS muestra el mensaje de instalación y actualiza la aplicación por encima, sin descargar el .ipa en Safari ni reinstalarlo manualmente. La insignia de actualización se enciende en Android y iPhone cada vez que hay una nueva versión (y la versión de iOS ahora se sincroniza automáticamente con cada versión)."
   }
 }
