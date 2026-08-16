@@ -1,13 +1,13 @@
 {
-  "versionCode": 81,
-  "versionName": "2.53",
+  "versionCode": 82,
+  "versionName": "2.54",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Removido o botão 'COPIAR DIAGNÓSTICO'. Novo botão 'Salvar .txt' com o mesmo design dos botões News/About, visível só quando você liga Settings > Vídeo > 'Show diagnostic button' (oculto por padrão). O Chat Global agora abre sempre nas mensagens mais recentes. Mensagens enviadas por você no canal chatglobal-log do Discord agora aparecem no chat global do app.",
+  "changelog": "Corrigida a atualização no iPhone: o .ipa anterior já estava no mesmo código publicado, então o badge de atualização ficava apagado. Agora a v2.54 acende o badge no iPhone e no Android e traz as novidades: botão 'Salvar .txt' (Settings > Video > 'Show diagnostic button'), chat global abrindo sempre nas mensagens mais recentes e mensagens enviadas por você no canal chatglobal-log do Discord aparecendo no chat global do app.",
   "changelogI18n": {
-    "pt": "Removido o botão 'COPIAR DIAGNÓSTICO'. Novo botão 'Salvar .txt' com o mesmo design dos botões News/About, visível só quando você liga Settings > Vídeo > 'Show diagnostic button' (oculto por padrão). O Chat Global agora abre sempre nas mensagens mais recentes. Mensagens enviadas por você no canal chatglobal-log do Discord agora aparecem no chat global do app.",
-    "en": "Removed 'COPY DIAGNOSIS' button. New 'Save .txt' button with the same design as the News/About buttons, visible only when you turn on Settings > Video > 'Show diagnostic button' (hidden by default). Global Chat now always opens to the most recent messages. Messages you send in Discord's chatglobal-log channel now appear in the app's global chat.",
-    "es": "Se eliminó el botón 'COPIAR DIAGNÓSTICO'. Nuevo botón 'Guardar .txt' con el mismo diseño que los botones Noticias/Acerca de, visible solo cuando activas Configuración > Vídeo > 'Mostrar botón de diagnóstico' (oculto de forma predeterminada). El chat global ahora siempre se abre con los mensajes más recientes. Los mensajes que envías en el canal chatglobal-log de Discord ahora aparecen en el chat global de la aplicación."
+    "pt": "Corrigida a atualização no iPhone: o .ipa anterior já estava no mesmo código publicado, então o badge de atualização ficava apagado. Agora a v2.54 acende o badge no iPhone e no Android e traz as novidades: botão 'Salvar .txt' (Settings > Video > 'Show diagnostic button'), chat global abrindo sempre nas mensagens mais recentes e mensagens enviadas por você no canal chatglobal-log do Discord aparecendo no chat global do app.",
+    "en": "Fixed the update on the iPhone: the previous .ipa was already in the same published code, so the update badge was erased. Now v2.54 lights up the badge on iPhone and Android and brings new features: 'Save .txt' button (Settings > Video > 'Show diagnostic button'), global chat always opening in the most recent messages and messages sent by you in Discord's chatglobal-log channel appearing in the app's global chat.",
+    "es": "Se corrigió la actualización en el iPhone: el .ipa anterior ya estaba en el mismo código publicado, por lo que se borró la insignia de actualización. Ahora la v2.54 ilumina la insignia en iPhone y Android y trae nuevas características: botón 'Guardar .txt' (Configuración > Video > 'Mostrar botón de diagnóstico'), el chat global siempre se abre en los mensajes más recientes y los mensajes enviados por usted en el canal chatglobal-log de Discord que aparecen en el chat global de la aplicación."
   }
 }
