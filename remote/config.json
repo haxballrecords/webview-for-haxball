@@ -1,13 +1,13 @@
 {
-  "versionCode": 83,
-  "versionName": "2.55",
+  "versionCode": 84,
+  "versionName": "2.56",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Agora a atualização no iPhone instala direto pelo app, como no Android: ao tocar em 'Atualizar agora', o iOS mostra o prompt de instalação e atualiza o app por cima — sem baixar o .ipa no Safari nem reinstalar manualmente. O badge de atualização acende no Android e no iPhone sempre que houver versão nova (e a versão do iOS agora é sincronizada automaticamente em cada release).",
+  "changelog": "Contagem de dispositivos online agora é por aparelho (ID estável do dispositivo, não IP) e o painel do Discord atualiza em tempo real a cada 60s. Bot migrado para o servidor dedicado do WebView for HaxBall.",
   "changelogI18n": {
-    "pt": "Agora a atualização no iPhone instala direto pelo app, como no Android: ao tocar em 'Atualizar agora', o iOS mostra o prompt de instalação e atualiza o app por cima — sem baixar o .ipa no Safari nem reinstalar manualmente. O badge de atualização acende no Android e no iPhone sempre que houver versão nova (e a versão do iOS agora é sincronizada automaticamente em cada release).",
-    "en": "Now the update on the iPhone installs directly through the app, like on Android: when you tap 'Update now', iOS shows the installation prompt and updates the app over the top — without downloading the .ipa in Safari or manually reinstalling it. The update badge lights up on Android and iPhone whenever there is a new version (and the iOS version is now automatically synchronized with each release).",
-    "es": "Ahora la actualización en el iPhone se instala directamente a través de la aplicación, como en Android: cuando tocas 'Actualizar ahora', iOS muestra el mensaje de instalación y actualiza la aplicación por encima, sin descargar el .ipa en Safari ni reinstalarlo manualmente. La insignia de actualización se enciende en Android y iPhone cada vez que hay una nueva versión (y la versión de iOS ahora se sincroniza automáticamente con cada versión)."
+    "pt": "Contagem de dispositivos online agora é por aparelho (ID estável do dispositivo, não IP) e o painel do Discord atualiza em tempo real a cada 60s. Bot migrado para o servidor dedicado do WebView for HaxBall.",
+    "en": "Online device count is now per device (stable device ID, not IP) and the Discord dashboard updates in real time every 60s. Bot migrated to the WebView for HaxBall dedicated server.",
+    "es": "El recuento de dispositivos en línea ahora es por dispositivo (ID de dispositivo estable, no IP) y el panel de Discord se actualiza en tiempo real cada 60 segundos. Bot migró al servidor dedicado WebView para HaxBall."
   }
 }
