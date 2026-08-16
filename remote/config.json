@@ -4,6 +4,7 @@
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
+  "forceBadge": true,
   "changelog": "🔄 Aviso reforçado de atualização: o badge de update acende em TODOS os aparelhos (mesmo na versão mais recente) para garantir que ninguém fique sem as correções do chat e do HUD. Baixe e instale por cima — mantém suas configurações.",
   "changelogI18n": {
     "pt": "🔄 Aviso reforçado de atualização: o badge de update acende em TODOS os aparelhos (mesmo na versão mais recente) para garantir que ninguém fique sem as correções do chat e do HUD. Baixe e instale por cima — mantém suas configurações.",
