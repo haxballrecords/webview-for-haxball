@@ -1,13 +1,13 @@
 {
-  "versionCode": 78,
-  "versionName": "2.50",
+  "versionCode": 79,
+  "versionName": "2.51",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "🔄 Atualização: o badge de update fica aceso enquanto houver versão nova e some assim que você atualizar. Baixe a versão mais recente para garantir as correções do chat e do HUD — instale por cima, mantendo suas configurações.",
+  "changelog": "Corrigido o layout cortado no iPhone (landscape): lista de salas, placar e HUD agora encaixam na tela, e os botões do topo não piscam mais ao abrir o preview do chat.",
   "changelogI18n": {
-    "pt": "🔄 Atualização: o badge de update fica aceso enquanto houver versão nova e some assim que você atualizar. Baixe a versão mais recente para garantir as correções do chat e do HUD — instale por cima, mantendo suas configurações.",
-    "en": "🔄 Update: the update badge stays lit while a new version is available and disappears as soon as you update. Download the latest version to ensure you have the chat and HUD fixes — install over the top, keeping your settings.",
-    "es": "🔄 Actualización: la insignia de actualización permanece encendida mientras haya una versión nueva y desaparece en cuanto actualices. Descarga la última versión para asegurarte de tener las correcciones de chat y HUD: instala encima, conservando tu configuración."
+    "pt": "Corrigido o layout cortado no iPhone (landscape): lista de salas, placar e HUD agora encaixam na tela, e os botões do topo não piscam mais ao abrir o preview do chat.",
+    "en": "Fixed the cut-off layout on iPhone (landscape): room list, scoreboard and HUD now fit on the screen, and the top buttons no longer blink when opening the chat preview.",
+    "es": "Se corrigió el diseño de corte en iPhone (apaisado): la lista de salas, el marcador y el HUD ahora caben en la pantalla, y los botones superiores ya no parpadean al abrir la vista previa del chat."
   }
 }
