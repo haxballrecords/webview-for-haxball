@@ -4,10 +4,10 @@
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "🔄 Aviso reforçado de atualização: o badge de update acende em TODOS os aparelhos (mesmo na versão mais recente) para garantir que ninguém fique sem as correções do chat e do HUD. Baixe e instale por cima — mantém suas configurações.",
+  "changelog": "🔄 Atualização: o badge de update fica aceso enquanto houver versão nova e some assim que você atualizar. Baixe a versão mais recente para garantir as correções do chat e do HUD — instale por cima, mantendo suas configurações.",
   "changelogI18n": {
-    "pt": "🔄 Aviso reforçado de atualização: o badge de update acende em TODOS os aparelhos (mesmo na versão mais recente) para garantir que ninguém fique sem as correções do chat e do HUD. Baixe e instale por cima — mantém suas configurações.",
-    "en": "🔄 Reinforced update warning: the update badge lights up on ALL devices (even the most recent version) to ensure that no one is left without chat and HUD corrections. Download and install over the top — keeps your settings.",
-    "es": "🔄 Advertencia de actualización reforzada: la insignia de actualización se ilumina en TODOS los dispositivos (incluso en la versión más reciente) para garantizar que nadie se quede sin chat y correcciones de HUD. Descargue e instale desde arriba: mantiene su configuración."
+    "pt": "🔄 Atualização: o badge de update fica aceso enquanto houver versão nova e some assim que você atualizar. Baixe a versão mais recente para garantir as correções do chat e do HUD — instale por cima, mantendo suas configurações.",
+    "en": "🔄 Update: the update badge stays lit while a new version is available and disappears as soon as you update. Download the latest version to ensure you have the chat and HUD fixes — install over the top, keeping your settings.",
+    "es": "🔄 Actualización: la insignia de actualización permanece encendida mientras haya una versión nueva y desaparece en cuanto actualices. Descarga la última versión para asegurarte de tener las correcciones de chat y HUD: instala encima, conservando tu configuración."
   }
 }
