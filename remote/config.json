@@ -1,13 +1,13 @@
 {
-  "versionCode": 84,
-  "versionName": "2.56",
+  "versionCode": 85,
+  "versionName": "2.57",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Contagem de dispositivos online agora é por aparelho (ID estável do dispositivo, não IP) e o painel do Discord atualiza em tempo real a cada 60s. Bot migrado para o servidor dedicado do WebView for HaxBall.",
+  "changelog": "iPhone: o botão Atualizar agora agora abre o .ipa no Safari com o passo a passo do ESign (instalação confiável). A instalação automática (OTA) só volta a ser usada quando o .ipa do link estiver assinado. Android continua atualizando direto.",
   "changelogI18n": {
-    "pt": "Contagem de dispositivos online agora é por aparelho (ID estável do dispositivo, não IP) e o painel do Discord atualiza em tempo real a cada 60s. Bot migrado para o servidor dedicado do WebView for HaxBall.",
-    "en": "Online device count is now per device (stable device ID, not IP) and the Discord dashboard updates in real time every 60s. Bot migrated to the WebView for HaxBall dedicated server.",
-    "es": "El recuento de dispositivos en línea ahora es por dispositivo (ID de dispositivo estable, no IP) y el panel de Discord se actualiza en tiempo real cada 60 segundos. Bot migró al servidor dedicado WebView para HaxBall."
+    "pt": "iPhone: o botão Atualizar agora agora abre o .ipa no Safari com o passo a passo do ESign (instalação confiável). A instalação automática (OTA) só volta a ser usada quando o .ipa do link estiver assinado. Android continua atualizando direto.",
+    "en": "iPhone: Update now button now opens .ipa in Safari with ESign walkthrough (trusted install). Automatic installation (OTA) is only used again when the .ipa in the link is signed. Android continues to update straight away.",
+    "es": "iPhone: el botón Actualizar ahora abre .ipa en Safari con el tutorial de ESign (instalación confiable). La instalación automática (OTA) solo se vuelve a utilizar cuando el .ipa del enlace está firmado. Android continúa actualizándose de inmediato."
   }
 }
