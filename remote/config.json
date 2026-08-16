@@ -1,13 +1,13 @@
 {
-  "versionCode": 80,
-  "versionName": "2.52",
+  "versionCode": 81,
+  "versionName": "2.53",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Corrigido o botão 'Atualizar agora' no iPhone: agora ele abre o .ipa no Safari para baixar e reinstalar pelo mesmo método da primeira instalação (no iPhone o app não se atualiza sozinho).",
+  "changelog": "Removido o botão 'COPIAR DIAGNÓSTICO'. Novo botão 'Salvar .txt' com o mesmo design dos botões News/About, visível só quando você liga Settings > Vídeo > 'Show diagnostic button' (oculto por padrão). O Chat Global agora abre sempre nas mensagens mais recentes. Mensagens enviadas por você no canal chatglobal-log do Discord agora aparecem no chat global do app.",
   "changelogI18n": {
-    "pt": "Corrigido o botão 'Atualizar agora' no iPhone: agora ele abre o .ipa no Safari para baixar e reinstalar pelo mesmo método da primeira instalação (no iPhone o app não se atualiza sozinho).",
-    "en": "Fixed the 'Update now' button on the iPhone: it now opens the .ipa in Safari to download and reinstall using the same method as the first installation (on the iPhone the app does not update itself).",
-    "es": "Se corrigió el botón 'Actualizar ahora' en el iPhone: ahora abre el .ipa en Safari para descargarlo y reinstalarlo usando el mismo método que la primera instalación (en el iPhone la aplicación no se actualiza sola)."
+    "pt": "Removido o botão 'COPIAR DIAGNÓSTICO'. Novo botão 'Salvar .txt' com o mesmo design dos botões News/About, visível só quando você liga Settings > Vídeo > 'Show diagnostic button' (oculto por padrão). O Chat Global agora abre sempre nas mensagens mais recentes. Mensagens enviadas por você no canal chatglobal-log do Discord agora aparecem no chat global do app.",
+    "en": "Removed 'COPY DIAGNOSIS' button. New 'Save .txt' button with the same design as the News/About buttons, visible only when you turn on Settings > Video > 'Show diagnostic button' (hidden by default). Global Chat now always opens to the most recent messages. Messages you send in Discord's chatglobal-log channel now appear in the app's global chat.",
+    "es": "Se eliminó el botón 'COPIAR DIAGNÓSTICO'. Nuevo botón 'Guardar .txt' con el mismo diseño que los botones Noticias/Acerca de, visible solo cuando activas Configuración > Vídeo > 'Mostrar botón de diagnóstico' (oculto de forma predeterminada). El chat global ahora siempre se abre con los mensajes más recientes. Los mensajes que envías en el canal chatglobal-log de Discord ahora aparecen en el chat global de la aplicación."
   }
 }
