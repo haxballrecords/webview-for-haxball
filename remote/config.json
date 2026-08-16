@@ -1,13 +1,13 @@
 {
-  "versionCode": 79,
-  "versionName": "2.51",
+  "versionCode": 80,
+  "versionName": "2.52",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "Corrigido o layout cortado no iPhone (landscape): lista de salas, placar e HUD agora encaixam na tela, e os botões do topo não piscam mais ao abrir o preview do chat.",
+  "changelog": "Corrigido o botão 'Atualizar agora' no iPhone: agora ele abre o .ipa no Safari para baixar e reinstalar pelo mesmo método da primeira instalação (no iPhone o app não se atualiza sozinho).",
   "changelogI18n": {
-    "pt": "Corrigido o layout cortado no iPhone (landscape): lista de salas, placar e HUD agora encaixam na tela, e os botões do topo não piscam mais ao abrir o preview do chat.",
-    "en": "Fixed the cut-off layout on iPhone (landscape): room list, scoreboard and HUD now fit on the screen, and the top buttons no longer blink when opening the chat preview.",
-    "es": "Se corrigió el diseño de corte en iPhone (apaisado): la lista de salas, el marcador y el HUD ahora caben en la pantalla, y los botones superiores ya no parpadean al abrir la vista previa del chat."
+    "pt": "Corrigido o botão 'Atualizar agora' no iPhone: agora ele abre o .ipa no Safari para baixar e reinstalar pelo mesmo método da primeira instalação (no iPhone o app não se atualiza sozinho).",
+    "en": "Fixed the 'Update now' button on the iPhone: it now opens the .ipa in Safari to download and reinstall using the same method as the first installation (on the iPhone the app does not update itself).",
+    "es": "Se corrigió el botón 'Actualizar ahora' en el iPhone: ahora abre el .ipa en Safari para descargarlo y reinstalarlo usando el mismo método que la primera instalación (en el iPhone la aplicación no se actualiza sola)."
   }
 }
