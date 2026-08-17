@@ -1,14 +1,14 @@
 {
-  "versionCode": 86,
-  "versionName": "2.58",
+  "versionCode": 87,
+  "versionName": "2.59",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Botões − / + de ajuste fino na Extrapolação (passos de 1 ms) para acertar o valor exato; botão ⓘ de explicação em 12 funções (Extrapolação, Pulso de Curva, Handicap, Senha, Controle de Acesso, Limite de Kick Rate, Time, Cores, Mensagens, Emojis, Área de jogo e Câmeras) com exemplos práticos e '(ms)' nos títulos; suporte a OTA no iPhone (/ios_ota) quando o .ipa estiver assinado.",
+  "changelog": "Janela de AJUDA nova no design nativo (mesmo visual da janela 'Sobre'): toque no ⓘ ao lado dos títulos do Adjustment para ver a explicação de cada função, com exemplos práticos. Corrigida a posição dos botões Players/Control no iPhone — a coluna da esquerda usa o mesmo recuo de borda da direita, então a Dynamic Island não empurra mais os botões para dentro da tela (colunas simétricas). Novos botaõezinhos nos cantos superiores: escondem/mostram os grupos de botões de cada lado para a bola não ficar atrás deles, e a preferência é lembrada.",
   "changelogI18n": {
-    "pt": "Botões − / + de ajuste fino na Extrapolação (passos de 1 ms) para acertar o valor exato; botão ⓘ de explicação em 12 funções (Extrapolação, Pulso de Curva, Handicap, Senha, Controle de Acesso, Limite de Kick Rate, Time, Cores, Mensagens, Emojis, Área de jogo e Câmeras) com exemplos práticos e '(ms)' nos títulos; suporte a OTA no iPhone (/ios_ota) quando o .ipa estiver assinado.",
-    "en": "− / + buttons for fine adjustment in Extrapolation (1 ms steps) to adjust the exact value; button ⓘ explanation of 12 functions (Extrapolation, Curve Pulse, Handicap, Password, Access Control, Kick Rate Limit, Time, Colors, Messages, Emojis, Playing Area and Cameras) with practical examples and '(ms)' in the titles; OTA support on iPhone (/ios_ota) when .ipa is signed.",
-    "es": "Botones − / + para ajuste fino en Extrapolación (pasos de 1 ms) para ajustar el valor exacto; botón ⓘ explicación de 12 funciones (Extrapolación, Curva de Pulso, Handicap, Contraseña, Control de Acceso, Límite de Kick Rate, Tiempo, Colores, Mensajes, Emojis, Área de Juego y Cámaras) con ejemplos prácticos y '(ms)' en los títulos; Soporte OTA en iPhone (/ios_ota) cuando se firma .ipa."
+    "pt": "Janela de AJUDA nova no design nativo (mesmo visual da janela 'Sobre'): toque no ⓘ ao lado dos títulos do Adjustment para ver a explicação de cada função, com exemplos práticos. Corrigida a posição dos botões Players/Control no iPhone — a coluna da esquerda usa o mesmo recuo de borda da direita, então a Dynamic Island não empurra mais os botões para dentro da tela (colunas simétricas). Novos botaõezinhos nos cantos superiores: escondem/mostram os grupos de botões de cada lado para a bola não ficar atrás deles, e a preferência é lembrada.",
+    "en": "New HELP window in native design (same look as the 'About' window): tap the ⓘ next to the Adjustment titles to see an explanation of each function, with practical examples. Fixed the position of the Players/Control buttons on iPhone — the left column uses the same edge indentation as the right, so Dynamic Island no longer pushes the buttons into the screen (symmetrical columns). New little buttons in the top corners: hide/show the groups of buttons on each side so the ball doesn't go behind them, and the preference is remembered.",
+    "es": "Nueva ventana de AYUDA en diseño nativo (mismo aspecto que la ventana 'Acerca de'): toque ⓘ junto a los títulos de Ajuste para ver una explicación de cada función, con ejemplos prácticos. Se corrigió la posición de los botones Reproductores/Control en el iPhone: la columna izquierda usa la misma sangría de borde que la derecha, por lo que Dynamic Island ya no presiona los botones en la pantalla (columnas simétricas). Nuevos botoncitos en las esquinas superiores: oculta/muestra los grupos de botones de cada lado para que la bola no vaya detrás de ellos y se recuerde la preferencia."
   }
 }
