@@ -1,14 +1,14 @@
 {
-  "versionCode": 92,
-  "versionName": "2.64",
+  "versionCode": 93,
+  "versionName": "2.65",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Correção definitiva dos botões dos cantos com o teclado aberto: o safe-area do aparelho mudava quando o teclado abria e empurrava as setinhas e os botões (Players, Control, Menu e Profile) para o centro da tela. Agora o safe-area é congelado no boot/rotação — as setinhas e colunas ficam fixas no canto, com o teclado aberto ou fechado.",
+  "changelog": "Anúncio do jogo ainda menor e agora visível em TODAS as telas, inclusive durante as partidas (só some em replays) — quanto mais o anúncio aparece, mais receita para o dono do jogo.",
   "changelogI18n": {
-    "pt": "Correção definitiva dos botões dos cantos com o teclado aberto: o safe-area do aparelho mudava quando o teclado abria e empurrava as setinhas e os botões (Players, Control, Menu e Profile) para o centro da tela. Agora o safe-area é congelado no boot/rotação — as setinhas e colunas ficam fixas no canto, com o teclado aberto ou fechado.",
-    "en": "Permanent correction of the corner buttons with the keyboard open: the device's safe area changed when the keyboard was opened and pushed the arrows and buttons (Players, Control, Menu and Profile) to the center of the screen. Now the safe-area is frozen at boot/rotation — the arrows and columns are fixed in the corner, whether the keyboard is open or closed.",
-    "es": "Corrección permanente de los botones de las esquinas con el teclado abierto: el área segura del dispositivo cambió cuando se abrió el teclado y se empujaron las flechas y botones (Reproductores, Control, Menú y Perfil) hacia el centro de la pantalla. Ahora el área segura está congelada durante el arranque/rotación: las flechas y columnas están fijas en las esquinas, ya sea que el teclado esté abierto o cerrado."
+    "pt": "Anúncio do jogo ainda menor e agora visível em TODAS as telas, inclusive durante as partidas (só some em replays) — quanto mais o anúncio aparece, mais receita para o dono do jogo.",
+    "en": "Even smaller game ad now visible on ALL screens, including during matches (only disappears in replays) — the more the ad appears, the more revenue for the game owner.",
+    "es": "Anuncios de juegos aún más pequeños ahora visibles en TODAS las pantallas, incluso durante los partidos (solo desaparecen en las repeticiones): cuanto más aparece el anuncio, más ingresos para el propietario del juego."
   }
 }
