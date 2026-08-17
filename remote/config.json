@@ -1,14 +1,14 @@
 {
-  "versionCode": 90,
-  "versionName": "2.62",
+  "versionCode": 91,
+  "versionName": "2.63",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "v2.62 — Correções nos botões dos cantos: com os botões escondidos, as setinhas agora apontam para o CENTRO da tela (→ na esquerda, ← na direita) em vez de apontarem para a parede. E o bug das setinhas e colunas se moverem para o centro da tela ao abrir o teclado para digitar no chat foi corrigido de verdade — elas ficam fixas no canto, com o teclado aberto ou fechado.",
+  "changelog": "v2.63 — Botões dos cantos com o teclado aberto: o app agora mede e corrige a posição das setinhas e colunas em tempo real quando o teclado abre — elas ficam presas no canto, sem descer pro centro. O diagnóstico ganhou captura automática do estado durante o teclado: a seção [HUD — CANTOS] mostra o que acontece enquanto se digita, mesmo com o teclado já fechado na hora de salvar o .txt.",
   "changelogI18n": {
-    "pt": "v2.62 — Correções nos botões dos cantos: com os botões escondidos, as setinhas agora apontam para o CENTRO da tela (→ na esquerda, ← na direita) em vez de apontarem para a parede. E o bug das setinhas e colunas se moverem para o centro da tela ao abrir o teclado para digitar no chat foi corrigido de verdade — elas ficam fixas no canto, com o teclado aberto ou fechado.",
-    "en": "v2.62 — Corrections to the corner buttons: with the buttons hidden, the arrows now point to the CENTER of the screen (→ on the left, ← on the right) instead of pointing towards the wall. And the bug where arrows and columns move to the center of the screen when opening the keyboard to type in chat has been truly fixed — they stay fixed in the corner, whether the keyboard is open or closed.",
-    "es": "v2.62 — Correcciones a los botones de las esquinas: con los botones ocultos, las flechas ahora apuntan al CENTRO de la pantalla (→ a la izquierda, ← a la derecha) en lugar de apuntar hacia la pared. Y el error por el cual las flechas y columnas se mueven al centro de la pantalla al abrir el teclado para escribir en el chat se ha solucionado realmente: permanecen fijas en la esquina, ya sea que el teclado esté abierto o cerrado."
+    "pt": "v2.63 — Botões dos cantos com o teclado aberto: o app agora mede e corrige a posição das setinhas e colunas em tempo real quando o teclado abre — elas ficam presas no canto, sem descer pro centro. O diagnóstico ganhou captura automática do estado durante o teclado: a seção [HUD — CANTOS] mostra o que acontece enquanto se digita, mesmo com o teclado já fechado na hora de salvar o .txt.",
+    "en": "v2.63 — Corner buttons with the keyboard open: the app now measures and corrects the position of the arrows and columns in real time when the keyboard opens — they stay stuck in the corner, without going down to the center. The diagnosis gained automatic state capture while using the keyboard: the [HUD — CORNERS] section shows what happens while typing, even with the keyboard already closed when saving the .txt.",
+    "es": "v2.63 — Botones de las esquinas con el teclado abierto: la aplicación ahora mide y corrige la posición de las flechas y columnas en tiempo real cuando se abre el teclado; permanecen atrapados en la esquina, sin bajar al centro. El diagnóstico obtuvo captura automática del estado mientras se usa el teclado: la sección [HUD — ESQUINAS] muestra lo que sucede mientras se escribe, incluso con el teclado ya cerrado al guardar el .txt."
   }
 }
