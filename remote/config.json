@@ -1,14 +1,14 @@
 {
-  "versionCode": 91,
-  "versionName": "2.63",
+  "versionCode": 92,
+  "versionName": "2.64",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "v2.63 — Botões dos cantos com o teclado aberto: o app agora mede e corrige a posição das setinhas e colunas em tempo real quando o teclado abre — elas ficam presas no canto, sem descer pro centro. O diagnóstico ganhou captura automática do estado durante o teclado: a seção [HUD — CANTOS] mostra o que acontece enquanto se digita, mesmo com o teclado já fechado na hora de salvar o .txt.",
+  "changelog": "Correção definitiva dos botões dos cantos com o teclado aberto: o safe-area do aparelho mudava quando o teclado abria e empurrava as setinhas e os botões (Players, Control, Menu e Profile) para o centro da tela. Agora o safe-area é congelado no boot/rotação — as setinhas e colunas ficam fixas no canto, com o teclado aberto ou fechado.",
   "changelogI18n": {
-    "pt": "v2.63 — Botões dos cantos com o teclado aberto: o app agora mede e corrige a posição das setinhas e colunas em tempo real quando o teclado abre — elas ficam presas no canto, sem descer pro centro. O diagnóstico ganhou captura automática do estado durante o teclado: a seção [HUD — CANTOS] mostra o que acontece enquanto se digita, mesmo com o teclado já fechado na hora de salvar o .txt.",
-    "en": "v2.63 — Corner buttons with the keyboard open: the app now measures and corrects the position of the arrows and columns in real time when the keyboard opens — they stay stuck in the corner, without going down to the center. The diagnosis gained automatic state capture while using the keyboard: the [HUD — CORNERS] section shows what happens while typing, even with the keyboard already closed when saving the .txt.",
-    "es": "v2.63 — Botones de las esquinas con el teclado abierto: la aplicación ahora mide y corrige la posición de las flechas y columnas en tiempo real cuando se abre el teclado; permanecen atrapados en la esquina, sin bajar al centro. El diagnóstico obtuvo captura automática del estado mientras se usa el teclado: la sección [HUD — ESQUINAS] muestra lo que sucede mientras se escribe, incluso con el teclado ya cerrado al guardar el .txt."
+    "pt": "Correção definitiva dos botões dos cantos com o teclado aberto: o safe-area do aparelho mudava quando o teclado abria e empurrava as setinhas e os botões (Players, Control, Menu e Profile) para o centro da tela. Agora o safe-area é congelado no boot/rotação — as setinhas e colunas ficam fixas no canto, com o teclado aberto ou fechado.",
+    "en": "Permanent correction of the corner buttons with the keyboard open: the device's safe area changed when the keyboard was opened and pushed the arrows and buttons (Players, Control, Menu and Profile) to the center of the screen. Now the safe-area is frozen at boot/rotation — the arrows and columns are fixed in the corner, whether the keyboard is open or closed.",
+    "es": "Corrección permanente de los botones de las esquinas con el teclado abierto: el área segura del dispositivo cambió cuando se abrió el teclado y se empujaron las flechas y botones (Reproductores, Control, Menú y Perfil) hacia el centro de la pantalla. Ahora el área segura está congelada durante el arranque/rotación: las flechas y columnas están fijas en las esquinas, ya sea que el teclado esté abierto o cerrado."
   }
 }
