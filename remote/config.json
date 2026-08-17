@@ -1,14 +1,14 @@
 {
-  "versionCode": 93,
-  "versionName": "2.65",
+  "versionCode": 94,
+  "versionName": "2.66",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Anúncio do jogo ainda menor e agora visível em TODAS as telas, inclusive durante as partidas (só some em replays) — quanto mais o anúncio aparece, mais receita para o dono do jogo.",
+  "changelog": "Anúncio fora das partidas (tamanho mantido); botões dos cantos voltam a ficar fixos no canto (setinha em cima); botão 'Save stadium' agora mostra a tentativa ao salvar o estádio.",
   "changelogI18n": {
-    "pt": "Anúncio do jogo ainda menor e agora visível em TODAS as telas, inclusive durante as partidas (só some em replays) — quanto mais o anúncio aparece, mais receita para o dono do jogo.",
-    "en": "Even smaller game ad now visible on ALL screens, including during matches (only disappears in replays) — the more the ad appears, the more revenue for the game owner.",
-    "es": "Anuncios de juegos aún más pequeños ahora visibles en TODAS las pantallas, incluso durante los partidos (solo desaparecen en las repeticiones): cuanto más aparece el anuncio, más ingresos para el propietario del juego."
+    "pt": "Anúncio fora das partidas (tamanho mantido); botões dos cantos voltam a ficar fixos no canto (setinha em cima); botão 'Save stadium' agora mostra a tentativa ao salvar o estádio.",
+    "en": "Announcement outside of matches (size maintained); corner buttons are fixed in the corner again (arrow at the top); 'Save stadium' button now shows the attempt to save the stadium.",
+    "es": "Anuncio fuera de los partidos (se mantiene el tamaño); los botones de las esquinas se fijan nuevamente en la esquina (flecha en la parte superior); El botón 'Guardar estadio' ahora muestra el intento de guardar el estadio."
   }
 }
