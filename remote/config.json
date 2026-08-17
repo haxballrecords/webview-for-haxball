@@ -1,13 +1,14 @@
 {
-  "versionCode": 85,
-  "versionName": "2.57",
+  "versionCode": 86,
+  "versionName": "2.58",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
-  "changelog": "iPhone: o botão Atualizar agora agora abre o .ipa no Safari com o passo a passo do ESign (instalação confiável). A instalação automática (OTA) só volta a ser usada quando o .ipa do link estiver assinado. Android continua atualizando direto.",
+  "iosOta": false,
+  "changelog": "Botões − / + de ajuste fino na Extrapolação (passos de 1 ms) para acertar o valor exato; botão ⓘ de explicação em 12 funções (Extrapolação, Pulso de Curva, Handicap, Senha, Controle de Acesso, Limite de Kick Rate, Time, Cores, Mensagens, Emojis, Área de jogo e Câmeras) com exemplos práticos e '(ms)' nos títulos; suporte a OTA no iPhone (/ios_ota) quando o .ipa estiver assinado.",
   "changelogI18n": {
-    "pt": "iPhone: o botão Atualizar agora agora abre o .ipa no Safari com o passo a passo do ESign (instalação confiável). A instalação automática (OTA) só volta a ser usada quando o .ipa do link estiver assinado. Android continua atualizando direto.",
-    "en": "iPhone: Update now button now opens .ipa in Safari with ESign walkthrough (trusted install). Automatic installation (OTA) is only used again when the .ipa in the link is signed. Android continues to update straight away.",
-    "es": "iPhone: el botón Actualizar ahora abre .ipa en Safari con el tutorial de ESign (instalación confiable). La instalación automática (OTA) solo se vuelve a utilizar cuando el .ipa del enlace está firmado. Android continúa actualizándose de inmediato."
+    "pt": "Botões − / + de ajuste fino na Extrapolação (passos de 1 ms) para acertar o valor exato; botão ⓘ de explicação em 12 funções (Extrapolação, Pulso de Curva, Handicap, Senha, Controle de Acesso, Limite de Kick Rate, Time, Cores, Mensagens, Emojis, Área de jogo e Câmeras) com exemplos práticos e '(ms)' nos títulos; suporte a OTA no iPhone (/ios_ota) quando o .ipa estiver assinado.",
+    "en": "− / + buttons for fine adjustment in Extrapolation (1 ms steps) to adjust the exact value; button ⓘ explanation of 12 functions (Extrapolation, Curve Pulse, Handicap, Password, Access Control, Kick Rate Limit, Time, Colors, Messages, Emojis, Playing Area and Cameras) with practical examples and '(ms)' in the titles; OTA support on iPhone (/ios_ota) when .ipa is signed.",
+    "es": "Botones − / + para ajuste fino en Extrapolación (pasos de 1 ms) para ajustar el valor exacto; botón ⓘ explicación de 12 funciones (Extrapolación, Curva de Pulso, Handicap, Contraseña, Control de Acceso, Límite de Kick Rate, Tiempo, Colores, Mensajes, Emojis, Área de Juego y Cámaras) con ejemplos prácticos y '(ms)' en los títulos; Soporte OTA en iPhone (/ios_ota) cuando se firma .ipa."
   }
 }
