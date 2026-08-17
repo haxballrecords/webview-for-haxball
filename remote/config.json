@@ -1,14 +1,14 @@
 {
-  "versionCode": 88,
-  "versionName": "2.60",
+  "versionCode": 89,
+  "versionName": "2.61",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "v2.60 — Botões dos cantos reorganizados: as colunas agora são verticais e encostadas na borda da tela — Players em cima + Control embaixo (esquerda); Menu em cima + Profile embaixo (direita). As setinhas dos cantos aparecem só dentro de sala: toque para esconder/mostrar a coluna de botões de cada lado e a preferência fica salva (fora da sala elas nem aparecem).",
+  "changelog": "v2.61 — Botões dos cantos: o mesmo espaço que existe entre a setinha e o primeiro botão agora separa Players de Control (esquerda) e Menu de Profile (direita) — nada mais fica colado. As setinhas mudaram de direção: com os botões aparecendo elas apontam para baixo; com os botões escondidos, apontam para a parede (← na esquerda, → na direita). Corrigido o bug das setinhas se moverem quando o teclado abre ao digitar no chat — agora elas ficam fixas no canto da tela (Android e iPhone).",
   "changelogI18n": {
-    "pt": "v2.60 — Botões dos cantos reorganizados: as colunas agora são verticais e encostadas na borda da tela — Players em cima + Control embaixo (esquerda); Menu em cima + Profile embaixo (direita). As setinhas dos cantos aparecem só dentro de sala: toque para esconder/mostrar a coluna de botões de cada lado e a preferência fica salva (fora da sala elas nem aparecem).",
-    "en": "v2.60 — Corner buttons reorganized: the button columns are now vertical and flush against the screen edge — Players on top + Control below (left); Menu on top + Profile below (right). The corner arrows only appear inside a room: tap to hide/show each button column and the preference is remembered (outside a room they don't even show).",
-    "es": "v2.60 — Botones de las esquinas reorganizados: las columnas ahora son verticales y pegadas al borde de la pantalla — Jugadores arriba + Control abajo (izquierda); Menú arriba + Perfil abajo (derecha). Las flechas de las esquinas solo aparecen dentro de la sala: toca para ocultar/mostrar la columna de botones de cada lado y la preferencia se guarda (fuera de la sala ni siquiera aparecen)."
+    "pt": "v2.61 — Botões dos cantos: o mesmo espaço que existe entre a setinha e o primeiro botão agora separa Players de Control (esquerda) e Menu de Profile (direita) — nada mais fica colado. As setinhas mudaram de direção: com os botões aparecendo elas apontam para baixo; com os botões escondidos, apontam para a parede (← na esquerda, → na direita). Corrigido o bug das setinhas se moverem quando o teclado abre ao digitar no chat — agora elas ficam fixas no canto da tela (Android e iPhone).",
+    "en": "v2.61 — Corner buttons: the same space that exists between the arrow and the first button now separates Control Players (left) and Profile Menu (right) — nothing is glued anymore. The arrows changed direction: with the buttons appearing, they point downwards; with the buttons hidden, they point to the wall (← on the left, → on the right). Fixed the bug where the arrows move when the keyboard opens when typing in the chat — they are now fixed in the corner of the screen (Android and iPhone).",
+    "es": "v2.61 — Botones de las esquinas: el mismo espacio que existe entre la flecha y el primer botón ahora separa los reproductores de control (izquierda) y el menú de perfil (derecha); ya no hay nada pegado. Las flechas cambiaron de dirección: al aparecer los botones, apuntan hacia abajo; con los botones ocultos, apuntan a la pared (← a la izquierda, → a la derecha). Se corrigió el error por el cual las flechas se movían cuando se abre el teclado al escribir en el chat; ahora están fijadas en la esquina de la pantalla (Android y iPhone)."
   }
 }
