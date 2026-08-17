@@ -1,14 +1,14 @@
 {
-  "versionCode": 89,
-  "versionName": "2.61",
+  "versionCode": 90,
+  "versionName": "2.62",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "v2.61 — Botões dos cantos: o mesmo espaço que existe entre a setinha e o primeiro botão agora separa Players de Control (esquerda) e Menu de Profile (direita) — nada mais fica colado. As setinhas mudaram de direção: com os botões aparecendo elas apontam para baixo; com os botões escondidos, apontam para a parede (← na esquerda, → na direita). Corrigido o bug das setinhas se moverem quando o teclado abre ao digitar no chat — agora elas ficam fixas no canto da tela (Android e iPhone).",
+  "changelog": "v2.62 — Correções nos botões dos cantos: com os botões escondidos, as setinhas agora apontam para o CENTRO da tela (→ na esquerda, ← na direita) em vez de apontarem para a parede. E o bug das setinhas e colunas se moverem para o centro da tela ao abrir o teclado para digitar no chat foi corrigido de verdade — elas ficam fixas no canto, com o teclado aberto ou fechado.",
   "changelogI18n": {
-    "pt": "v2.61 — Botões dos cantos: o mesmo espaço que existe entre a setinha e o primeiro botão agora separa Players de Control (esquerda) e Menu de Profile (direita) — nada mais fica colado. As setinhas mudaram de direção: com os botões aparecendo elas apontam para baixo; com os botões escondidos, apontam para a parede (← na esquerda, → na direita). Corrigido o bug das setinhas se moverem quando o teclado abre ao digitar no chat — agora elas ficam fixas no canto da tela (Android e iPhone).",
-    "en": "v2.61 — Corner buttons: the same space that exists between the arrow and the first button now separates Control Players (left) and Profile Menu (right) — nothing is glued anymore. The arrows changed direction: with the buttons appearing, they point downwards; with the buttons hidden, they point to the wall (← on the left, → on the right). Fixed the bug where the arrows move when the keyboard opens when typing in the chat — they are now fixed in the corner of the screen (Android and iPhone).",
-    "es": "v2.61 — Botones de las esquinas: el mismo espacio que existe entre la flecha y el primer botón ahora separa los reproductores de control (izquierda) y el menú de perfil (derecha); ya no hay nada pegado. Las flechas cambiaron de dirección: al aparecer los botones, apuntan hacia abajo; con los botones ocultos, apuntan a la pared (← a la izquierda, → a la derecha). Se corrigió el error por el cual las flechas se movían cuando se abre el teclado al escribir en el chat; ahora están fijadas en la esquina de la pantalla (Android y iPhone)."
+    "pt": "v2.62 — Correções nos botões dos cantos: com os botões escondidos, as setinhas agora apontam para o CENTRO da tela (→ na esquerda, ← na direita) em vez de apontarem para a parede. E o bug das setinhas e colunas se moverem para o centro da tela ao abrir o teclado para digitar no chat foi corrigido de verdade — elas ficam fixas no canto, com o teclado aberto ou fechado.",
+    "en": "v2.62 — Corrections to the corner buttons: with the buttons hidden, the arrows now point to the CENTER of the screen (→ on the left, ← on the right) instead of pointing towards the wall. And the bug where arrows and columns move to the center of the screen when opening the keyboard to type in chat has been truly fixed — they stay fixed in the corner, whether the keyboard is open or closed.",
+    "es": "v2.62 — Correcciones a los botones de las esquinas: con los botones ocultos, las flechas ahora apuntan al CENTRO de la pantalla (→ a la izquierda, ← a la derecha) en lugar de apuntar hacia la pared. Y el error por el cual las flechas y columnas se mueven al centro de la pantalla al abrir el teclado para escribir en el chat se ha solucionado realmente: permanecen fijas en la esquina, ya sea que el teclado esté abierto o cerrado."
   }
 }
