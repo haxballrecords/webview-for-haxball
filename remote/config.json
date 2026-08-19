@@ -1,14 +1,14 @@
 {
-  "versionCode": 96,
-  "versionName": "2.67",
+  "versionCode": 97,
+  "versionName": "2.68",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Atualização automática via release.sh.",
+  "changelog": "Correcoes no lobby: botao Salvar sala funcionando corretamente, busca de salas reaparece ao navegar e voltar, nome do botao atualizado em todos os idiomas",
   "changelogI18n": {
-    "pt": "Atualização automática via release.sh.",
-    "en": "Automatic update via release.sh.",
-    "es": "Actualización automática a través de release.sh."
+    "pt": "Correcoes no lobby: botao Salvar sala funcionando corretamente, busca de salas reaparece ao navegar e voltar, nome do botao atualizado em todos os idiomas",
+    "en": "Lobby fixes: Save room button working correctly, room search reappears when browsing and returning, button name updated in all languages",
+    "es": "Correcciones en el lobby: el botón Guardar sala funciona correctamente, la búsqueda de sala reaparece al navegar y regresar, el nombre del botón se actualiza en todos los idiomas"
   }
 }
