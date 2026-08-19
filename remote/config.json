@@ -1,14 +1,14 @@
 {
-  "versionCode": 97,
+  "versionCode": 98,
   "versionName": "2.68",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Correcoes no lobby: botao Salvar sala funcionando corretamente, busca de salas reaparece ao navegar e voltar, nome do botao atualizado em todos os idiomas",
+  "changelog": "Fix: sala salva não aparece na lista ao clicar uma vez + Save room; Texto 'Nenhuma sala salva' agora acompanha o idioma (EN/PT/ES); Campo de pesquisa acompanha a largura da linha separator do Lobby; Bot do Discord edita mensagem existente em vez de criar nova",
   "changelogI18n": {
-    "pt": "Correcoes no lobby: botao Salvar sala funcionando corretamente, busca de salas reaparece ao navegar e voltar, nome do botao atualizado em todos os idiomas",
-    "en": "Lobby fixes: Save room button working correctly, room search reappears when browsing and returning, button name updated in all languages",
-    "es": "Correcciones en el lobby: el botón Guardar sala funciona correctamente, la búsqueda de sala reaparece al navegar y regresar, el nombre del botón se actualiza en todos los idiomas"
+    "pt": "Fix: sala salva não aparece na lista ao clicar uma vez + Save room; Texto 'Nenhuma sala salva' agora acompanha o idioma (EN/PT/ES); Campo de pesquisa acompanha a largura da linha separator do Lobby; Bot do Discord edita mensagem existente em vez de criar nova",
+    "en": "Fix: saved room does not appear in the list when clicking once + Save room; Text 'No room saved' now follows the language (EN/PT/ES); Search field follows the width of the Lobby separator line; Discord bot edits existing message instead of creating new one",
+    "es": "Solución: la habitación guardada no aparece en la lista al hacer clic una vez en + Guardar habitación; El texto 'No hay habitación guardada' ahora sigue el idioma (EN/PT/ES); El campo de búsqueda sigue el ancho de la línea separadora del lobby; El bot de Discord edita el mensaje existente en lugar de crear uno nuevo"
   }
 }
