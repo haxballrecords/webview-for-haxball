@@ -1,14 +1,14 @@
 {
-  "versionCode": 94,
-  "versionName": "2.66",
+  "versionCode": 95,
+  "versionName": "2.67",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Anúncio fora das partidas (tamanho mantido); botões dos cantos voltam a ficar fixos no canto (setinha em cima); botão 'Save stadium' agora mostra a tentativa ao salvar o estádio.",
+  "changelog": "Campo de busca de salas no lobby; favoritos com botao de disquete; filtro em tempo real",
   "changelogI18n": {
-    "pt": "Anúncio fora das partidas (tamanho mantido); botões dos cantos voltam a ficar fixos no canto (setinha em cima); botão 'Save stadium' agora mostra a tentativa ao salvar o estádio.",
-    "en": "Announcement outside of matches (size maintained); corner buttons are fixed in the corner again (arrow at the top); 'Save stadium' button now shows the attempt to save the stadium.",
-    "es": "Anuncio fuera de los partidos (se mantiene el tamaño); los botones de las esquinas se fijan nuevamente en la esquina (flecha en la parte superior); El botón 'Guardar estadio' ahora muestra el intento de guardar el estadio."
+    "pt": "Campo de busca de salas no lobby; favoritos com botao de disquete; filtro em tempo real",
+    "en": "Room search field in the lobby; favorites with floppy disk button; real-time filter",
+    "es": "Campo de búsqueda de habitaciones en el lobby; favoritos con botón de disquete; filtro en tiempo real"
   }
 }
