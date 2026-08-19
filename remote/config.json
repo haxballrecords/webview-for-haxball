@@ -1,14 +1,14 @@
 {
-  "versionCode": 95,
+  "versionCode": 96,
   "versionName": "2.67",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Campo de busca de salas no lobby; favoritos com botao de disquete; filtro em tempo real",
+  "changelog": "Atualização automática via release.sh.",
   "changelogI18n": {
-    "pt": "Campo de busca de salas no lobby; favoritos com botao de disquete; filtro em tempo real",
-    "en": "Room search field in the lobby; favorites with floppy disk button; real-time filter",
-    "es": "Campo de búsqueda de habitaciones en el lobby; favoritos con botón de disquete; filtro en tiempo real"
+    "pt": "Atualização automática via release.sh.",
+    "en": "Automatic update via release.sh.",
+    "es": "Actualización automática a través de release.sh."
   }
 }
