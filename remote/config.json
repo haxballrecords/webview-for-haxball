@@ -1,14 +1,14 @@
 {
-  "versionCode": 101,
+  "versionCode": 102,
   "versionName": "Fix: botão Salvar visual pressionado + exclusão de salas duplicada no lobby",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Layout da tabela do Lobby atualizado: table-layout fixo, colunas reposicionadas, fundos transparentes, e input de busca com largura fixa",
+  "changelog": "Revert do layout da tabela do lobby; Botão Dúvidas restaurado nas boas-vindas; Join-log desativado",
   "changelogI18n": {
-    "pt": "Layout da tabela do Lobby atualizado: table-layout fixo, colunas reposicionadas, fundos transparentes, e input de busca com largura fixa",
-    "en": "Updated Lobby table layout: fixed table-layout, repositioned columns, transparent backgrounds, and fixed-width search input",
-    "es": "Diseño de la tabla del lobby actualizado: diseño de tabla fijo, columnas reposicionadas, fondos transparentes y entrada de búsqueda de ancho fijo"
+    "pt": "Revert do layout da tabela do lobby; Botão Dúvidas restaurado nas boas-vindas; Join-log desativado",
+    "en": "Revert the lobby table layout; Questions button restored in welcome; Join log disabled",
+    "es": "Revertir el diseño de la mesa del lobby; Botón de preguntas restaurado en bienvenida; Registro de unión deshabilitado"
   }
 }
