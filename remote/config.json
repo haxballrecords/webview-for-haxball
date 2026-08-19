@@ -1,14 +1,14 @@
 {
-  "versionCode": 99,
+  "versionCode": 100,
   "versionName": "Fix: botão Salvar visual pressionado + exclusão de salas duplicada no lobby",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Atualização automática via release.sh.",
+  "changelog": "WebView debugging habilitado + bot não posta mais nos canais de updates automaticamente",
   "changelogI18n": {
-    "pt": "Atualização automática via release.sh.",
-    "en": "Automatic update via release.sh.",
-    "es": "Actualización automática a través de release.sh."
+    "pt": "WebView debugging habilitado + bot não posta mais nos canais de updates automaticamente",
+    "en": "WebView debugging enabled + bot no longer posts to update channels automatically",
+    "es": "Depuración de WebView habilitada + el bot ya no publica para actualizar los canales automáticamente"
   }
 }
