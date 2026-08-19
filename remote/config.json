@@ -1,14 +1,14 @@
 {
-  "versionCode": 98,
-  "versionName": "2.68",
+  "versionCode": 99,
+  "versionName": "Fix: botão Salvar visual pressionado + exclusão de salas duplicada no lobby",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Fix: sala salva não aparece na lista ao clicar uma vez + Save room; Texto 'Nenhuma sala salva' agora acompanha o idioma (EN/PT/ES); Campo de pesquisa acompanha a largura da linha separator do Lobby; Bot do Discord edita mensagem existente em vez de criar nova",
+  "changelog": "Atualização automática via release.sh.",
   "changelogI18n": {
-    "pt": "Fix: sala salva não aparece na lista ao clicar uma vez + Save room; Texto 'Nenhuma sala salva' agora acompanha o idioma (EN/PT/ES); Campo de pesquisa acompanha a largura da linha separator do Lobby; Bot do Discord edita mensagem existente em vez de criar nova",
-    "en": "Fix: saved room does not appear in the list when clicking once + Save room; Text 'No room saved' now follows the language (EN/PT/ES); Search field follows the width of the Lobby separator line; Discord bot edits existing message instead of creating new one",
-    "es": "Solución: la habitación guardada no aparece en la lista al hacer clic una vez en + Guardar habitación; El texto 'No hay habitación guardada' ahora sigue el idioma (EN/PT/ES); El campo de búsqueda sigue el ancho de la línea separadora del lobby; El bot de Discord edita el mensaje existente en lugar de crear uno nuevo"
+    "pt": "Atualização automática via release.sh.",
+    "en": "Automatic update via release.sh.",
+    "es": "Actualización automática a través de release.sh."
   }
 }
