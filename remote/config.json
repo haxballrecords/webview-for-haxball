@@ -1,14 +1,14 @@
 {
-  "versionCode": 107,
-  "versionName": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
+  "versionCode": 93,
+  "versionName": "2.65",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Atualização automática via release.sh.",
+  "changelog": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
   "changelogI18n": {
-    "pt": "Atualização automática via release.sh.",
-    "en": "Automatic update via release.sh.",
-    "es": "Actualización automática a través de release.sh."
+    "pt": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
+    "en": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
+    "es": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos"
   }
 }
