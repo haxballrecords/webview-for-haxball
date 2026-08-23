@@ -1,14 +1,14 @@
 {
-  "versionCode": 93,
+  "versionCode": 94,
   "versionName": "2.65",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
+  "changelog": "Atualização automática via release.sh.",
   "changelogI18n": {
-    "pt": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
-    "en": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos",
-    "es": "Ajuste: Handicap movido p/ Settings, barra de busca corrigida, filtro de salas, botão Entrar nos favoritos"
+    "pt": "Atualização automática via release.sh.",
+    "en": "Atualização automática via release.sh.",
+    "es": "Atualização automática via release.sh."
   }
 }
