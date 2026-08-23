@@ -1,14 +1,1 @@
-{
-  "versionCode": 95,
-  "versionName": "2.65",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
-  "enabled": true,
-  "minVersion": 1,
-  "iosOta": false,
-  "changelog": "Atualização automática via release.sh.",
-  "changelogI18n": {
-    "pt": "Atualização automática via release.sh.",
-    "en": "Atualização automática via release.sh.",
-    "es": "Atualização automática via release.sh."
-  }
-}
+{"versionCode":96,"versionName":"2.65-test","latestUrl":"https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk","enabled":true,"minVersion":1,"iosOta":false,"changelog":"Teste temporário do badge de update","changelogI18n":{"pt":"Teste temporário do badge de update","en":"Temporary update badge test","es":"Prueba temporal del badge de actualización"}}
