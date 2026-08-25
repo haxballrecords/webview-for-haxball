@@ -1,1 +1,14 @@
-{"versionCode":96,"versionName":"2.65-test","latestUrl":"https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk","enabled":true,"minVersion":1,"iosOta":false,"changelog":"Teste temporário do badge de update","changelogI18n":{"pt":"Teste temporário do badge de update","en":"Temporary update badge test","es":"Prueba temporal del badge de actualización"}}
+{
+  "versionCode": 110,
+  "versionName": "2.68",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
+  "enabled": true,
+  "minVersion": 1,
+  "iosOta": false,
+  "changelog": "Zoom de câmera, tracejado fix, i18n, replay",
+  "changelogI18n": {
+    "pt": "Zoom de câmera, tracejado fix, i18n, replay",
+    "en": "Zoom de câmera, tracejado fix, i18n, replay",
+    "es": "Zoom de câmera, tracejado fix, i18n, replay"
+  }
+}
