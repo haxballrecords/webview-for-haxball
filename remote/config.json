@@ -8,7 +8,7 @@
   "changelog": "Zoom de câmera, tracejado fix, i18n, replay",
   "changelogI18n": {
     "pt": "Zoom de câmera, tracejado fix, i18n, replay",
-    "en": "Zoom de câmera, tracejado fix, i18n, replay",
-    "es": "Zoom de câmera, tracejado fix, i18n, replay"
+    "en": "Camera zoom, dashed border fix, i18n, replay",
+    "es": "Zoom de cámara, borde punteado fix, i18n, replay"
   }
 }
