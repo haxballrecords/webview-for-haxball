@@ -1,14 +1,14 @@
 {
-  "versionCode": 110,
+  "versionCode": 109,
   "versionName": "2.68",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Zoom de câmera, tracejado fix, i18n, replay",
+  "changelog": "Atualização visual: novo ícone do app",
   "changelogI18n": {
-    "pt": "Zoom de câmera, tracejado fix, i18n, replay",
-    "en": "Camera zoom, dashed border fix, i18n, replay",
-    "es": "Zoom de cámara, borde punteado fix, i18n, replay"
+    "pt": "Atualização visual: novo ícone do app",
+    "en": "Atualização visual: novo ícone do app",
+    "es": "Atualização visual: novo ícone do app"
   }
 }
