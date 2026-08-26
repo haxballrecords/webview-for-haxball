@@ -1,14 +1,14 @@
 {
-  "versionCode": 110,
+  "versionCode": 112,
   "versionName": "2.68",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "changelog": "Atualização visual: novo ícone do app",
+  "changelog": "Novo ícone do aplicativo (correção)",
   "changelogI18n": {
-    "pt": "Atualização visual: novo ícone do app",
-    "en": "Atualização visual: novo ícone do app",
-    "es": "Atualização visual: novo ícone do app"
+    "pt": "Novo ícone do aplicativo (correção)",
+    "en": "Novo ícone do aplicativo (correção)",
+    "es": "Novo ícone do aplicativo (correção)"
   }
 }
