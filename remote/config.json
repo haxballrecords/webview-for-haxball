@@ -12,5 +12,5 @@
     "en": "Cameras are now located in Settings > Video and Control in Settings > Controls (shows keys with keyboard and buttons with connected control); the fingerprint sensor is no longer confused with control; the timer flashes for the last 30 seconds; changing flaps by dragging without overlapping windows.",
     "es": "Las cámaras ahora están ubicadas en Configuración > Video y control en Configuración > Controles (muestra teclas con teclado y botones con control conectado); ya no se confunde el sensor de huellas con control; el cronómetro parpadea durante los últimos 30 segundos; cambio de solapas arrastrando sin superponer ventanas."
   },
-  "iosVersionCode": 115
+  "iosVersionCode": 116
 }
