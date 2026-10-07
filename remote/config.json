@@ -1,16 +1,16 @@
 {
-  "versionCode": 114,
-  "versionName": "2.69",
+  "versionCode": 115,
+  "versionName": "2.70",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
   "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Corrige o botão Sair em partida, lupas no editor de HUD, botão de restaurar HUD padrão, configurações não se perdem mais em atualizações e atualização no iPhone.",
+  "changelog": "Proporção de tela 4:3 esticado (estilo CS) em Perfil > Câmeras, suporte a controle USB/Bluetooth com botões remapeáveis, marcar jogadores com @/# no chat, telas sem piscar a versão nativa e o app não fecha mais ao conectar um dispositivo.",
   "changelogI18n": {
-    "pt": "Corrige o botão Sair em partida, lupas no editor de HUD, botão de restaurar HUD padrão, configurações não se perdem mais em atualizações e atualização no iPhone.",
-    "en": "Fixes the Exit button in the match, magnifying glasses in the HUD editor, restore default HUD button, settings are no longer lost in updates and updates on the iPhone.",
-    "es": "Corrige el botón Salir en el partido, lupas en el editor HUD, restaura el botón HUD predeterminado, la configuración ya no se pierde en las actualizaciones y actualizaciones en el iPhone."
+    "pt": "Proporção de tela 4:3 esticado (estilo CS) em Perfil > Câmeras, suporte a controle USB/Bluetooth com botões remapeáveis, marcar jogadores com @/# no chat, telas sem piscar a versão nativa e o app não fecha mais ao conectar um dispositivo.",
+    "en": "Proporção de tela 4:3 esticado (estilo CS) em Perfil > Câmeras, suporte a controle USB/Bluetooth com botões remapeáveis, marcar jogadores com @/# no chat, telas sem piscar a versão nativa e o app não fecha mais ao conectar um dispositivo.",
+    "es": "Proporção de tela 4:3 esticado (estilo CS) em Perfil > Câmeras, suporte a controle USB/Bluetooth com botões remapeáveis, marcar jogadores com @/# no chat, telas sem piscar a versão nativa e o app não fecha mais ao conectar um dispositivo."
   },
   "iosVersionCode": 114
 }
