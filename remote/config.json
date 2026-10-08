@@ -1,16 +1,16 @@
 {
-  "versionCode": 116,
-  "versionName": "2.71",
+  "versionCode": 117,
+  "versionName": "2.72",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
   "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Câmeras agora ficam em Configurações > Vídeo e Controle em Configurações > Controles (mostra teclas com teclado e botões com controle conectado); o sensor de digital não é mais confundido com controle; o cronômetro pisca nos últimos 30 segundos; troca de abas por arrasto sem sobrepor janelas.",
+  "changelog": "Corrige o travamento ao abrir as Configurações e ao trocar para a câmera 0. Novidades: o app agora funciona com o celular em pé (retrato); setas táteis como alternativa ao joystick (botão no Editar HUD); Modo desempenho em Configurações, Vídeo, e app mais leve em celulares fracos; HUD com posições novas e slider de zoom vertical; no controle, toque na ação e aperte o botão desejado, com nomes de PlayStation. As câmeras foram para Perfil, Ações, e o Handicap fica só no Control.",
   "changelogI18n": {
-    "pt": "Câmeras agora ficam em Configurações > Vídeo e Controle em Configurações > Controles (mostra teclas com teclado e botões com controle conectado); o sensor de digital não é mais confundido com controle; o cronômetro pisca nos últimos 30 segundos; troca de abas por arrasto sem sobrepor janelas.",
-    "en": "Cameras are now located in Settings > Video and Control in Settings > Controls (shows keys with keyboard and buttons with connected control); the fingerprint sensor is no longer confused with control; the timer flashes for the last 30 seconds; changing flaps by dragging without overlapping windows.",
-    "es": "Las cámaras ahora están ubicadas en Configuración > Video y control en Configuración > Controles (muestra teclas con teclado y botones con control conectado); ya no se confunde el sensor de huellas con control; el cronómetro parpadea durante los últimos 30 segundos; cambio de solapas arrastrando sin superponer ventanas."
+    "pt": "Corrige o travamento ao abrir as Configurações e ao trocar para a câmera 0. Novidades: o app agora funciona com o celular em pé (retrato); setas táteis como alternativa ao joystick (botão no Editar HUD); Modo desempenho em Configurações, Vídeo, e app mais leve em celulares fracos; HUD com posições novas e slider de zoom vertical; no controle, toque na ação e aperte o botão desejado, com nomes de PlayStation. As câmeras foram para Perfil, Ações, e o Handicap fica só no Control.",
+    "en": "Corrige o travamento ao abrir as Configurações e ao trocar para a câmera 0. Novidades: o app agora funciona com o celular em pé (retrato); setas táteis como alternativa ao joystick (botão no Editar HUD); Modo desempenho em Configurações, Vídeo, e app mais leve em celulares fracos; HUD com posições novas e slider de zoom vertical; no controle, toque na ação e aperte o botão desejado, com nomes de PlayStation. As câmeras foram para Perfil, Ações, e o Handicap fica só no Control.",
+    "es": "Corrige o travamento ao abrir as Configurações e ao trocar para a câmera 0. Novidades: o app agora funciona com o celular em pé (retrato); setas táteis como alternativa ao joystick (botão no Editar HUD); Modo desempenho em Configurações, Vídeo, e app mais leve em celulares fracos; HUD com posições novas e slider de zoom vertical; no controle, toque na ação e aperte o botão desejado, com nomes de PlayStation. As câmeras foram para Perfil, Ações, e o Handicap fica só no Control."
   },
   "iosVersionCode": 116
 }
