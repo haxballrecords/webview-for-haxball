@@ -1,16 +1,16 @@
 {
-  "versionCode": 118,
-  "versionName": "2.73",
+  "versionCode": 119,
+  "versionName": "2.74",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
   "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Com o celular em pé, a área de jogo agora ocupa a tela toda, e o quadro de Posição (Configurações, Vídeo) acompanha a orientação da tela.",
+  "changelog": "Ajustes feitos nas atualizações anteriores: HUD, salvar HUD etc.",
   "changelogI18n": {
-    "pt": "Com o celular em pé, a área de jogo agora ocupa a tela toda, e o quadro de Posição (Configurações, Vídeo) acompanha a orientação da tela.",
-    "en": "With the cell phone standing upright, the game area now occupies the entire screen, and the Position box (Settings, Video) follows the screen orientation.",
-    "es": "Con el teléfono celular en posición vertical, el área de juego ahora ocupa toda la pantalla y el cuadro de Posición (Configuración, Video) sigue la orientación de la pantalla."
+    "pt": "Ajustes feitos nas atualizações anteriores: HUD, salvar HUD etc.",
+    "en": "Adjustments made in previous updates: HUD, save HUD, etc.",
+    "es": "Ajustes realizados en actualizaciones anteriores: HUD, guardar HUD, etc."
   },
   "iosVersionCode": 118
 }
