@@ -1,16 +1,16 @@
 {
-  "versionCode": 119,
+  "versionCode": 120,
   "versionName": "2.74",
   "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
   "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Ajustes feitos nas atualizações anteriores: HUD, salvar HUD etc.",
+  "changelog": "Ajustes das últimas atualizações.",
   "changelogI18n": {
-    "pt": "Ajustes feitos nas atualizações anteriores: HUD, salvar HUD etc.",
-    "en": "Adjustments made in previous updates: HUD, save HUD, etc.",
-    "es": "Ajustes realizados en actualizaciones anteriores: HUD, guardar HUD, etc."
+    "pt": "Ajustes das últimas atualizações.",
+    "en": "Adjustments from the latest updates.",
+    "es": "Ajustes de las últimas actualizaciones."
   },
   "iosVersionCode": 119
 }
