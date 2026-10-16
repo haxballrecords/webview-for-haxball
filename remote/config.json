@@ -1,31 +1,37 @@
 {
-  "versionCode": 121,
-  "versionName": "3.0.0-client",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-Android.apk",
+  "versionCode": 122,
+  "versionName": "3.1.0-client",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Client nativo: voz por proximidade com alcance ampliado, identificadores PC/Android, supressao de ruido ligada por padrao e moderacao de voz por dono/admin. Android 8 ou superior, ARM64. iPhone permanece na versao WebView atual.",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-iPhone.ipa",
+  "changelog": "Client: chat reduzido ate uma linha, recuperacao de favoritos e HUDs do WebView, espacos preservados nos apelidos, correcao de digitacao no PC e icones a direita sem cortar o nome. Download direto no Android. Inclui Client nativo para iPhone (iOS 15+); o IPA sem assinatura requer assinatura pessoal para instalar.",
   "changelogI18n": {
-    "pt": "Client nativo: voz por proximidade com alcance ampliado, identificadores PC/Android, supressao de ruido ligada por padrao e moderacao de voz por dono/admin. Android 8 ou superior, ARM64. iPhone permanece na versao WebView atual.",
-    "en": "Native Client: extended proximity voice, PC/Android badges, noise suppression enabled by default and room voice moderation. Requires Android 8+, ARM64. iPhone remains on the current WebView version.",
-    "es": "Client nativo: voz de proximidad ampliada, identificadores PC/Android, supresion de ruido activada y moderacion de voz. Requiere Android 8+, ARM64. iPhone mantiene la version actual de WebView."
+    "pt": "Client: chat reduzido ate uma linha, recuperacao de favoritos e HUDs do WebView, espacos preservados nos apelidos, correcao de digitacao no PC e icones a direita sem cortar o nome. Download direto no Android. Inclui Client nativo para iPhone (iOS 15+); o IPA sem assinatura requer assinatura pessoal para instalar.",
+    "en": "Client: one-line chat, recovery of WebView favorites and HUDs, preserved nickname spaces, PC typing fixes, and icons to the right without cutting names. Direct Android download. Includes native Client for iPhone (iOS 15+); the unsigned IPA requires personal signing to install.",
+    "es": "Client: chat de una linea, recuperacion de favoritos y HUD de WebView, espacios preservados en apodos, correccion del teclado en PC e iconos a la derecha sin cortar nombres. Descarga directa en Android. Incluye Client nativo para iPhone (iOS 15+); el IPA sin firmar requiere firma personal para instalar."
   },
-  "iosVersionCode": 120,
-  "clientConfigRevision": 1792169131692,
+  "iosVersionCode": 122,
+  "clientConfigRevision": 1792175750035,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 121,
-      "versionName": "3.0.0-client",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-PC.zip"
+      "versionCode": 122,
+      "versionName": "3.1.0-client",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-PC.zip"
     },
     "android": {
-      "versionCode": 121,
-      "versionName": "3.0.0-client",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-Android.apk"
+      "versionCode": 122,
+      "versionName": "3.1.0-client",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-Android.apk"
+    },
+    "ios": {
+      "versionCode": 122,
+      "versionName": "3.1.0-client",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-iPhone.ipa"
     }
   },
-  "clientVersionCode": 121,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-121"
+  "clientVersionCode": 122,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-122",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-122/Client-iPhone.ipa"
 }
