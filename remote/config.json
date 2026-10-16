@@ -1,16 +1,31 @@
 {
-  "versionCode": 120,
-  "versionName": "2.74",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/latest/download/app-release.apk",
+  "versionCode": 121,
+  "versionName": "3.0.0-client",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
   "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/v0.1-beta/app-release.ipa",
-  "changelog": "Ajustes das últimas atualizações.",
+  "changelog": "Client nativo: voz por proximidade com alcance ampliado, identificadores PC/Android, supressao de ruido ligada por padrao e moderacao de voz por dono/admin. Android 8 ou superior, ARM64. iPhone permanece na versao WebView atual.",
   "changelogI18n": {
-    "pt": "Ajustes das últimas atualizações.",
-    "en": "Adjustments from the latest updates.",
-    "es": "Ajustes de las últimas actualizaciones."
+    "pt": "Client nativo: voz por proximidade com alcance ampliado, identificadores PC/Android, supressao de ruido ligada por padrao e moderacao de voz por dono/admin. Android 8 ou superior, ARM64. iPhone permanece na versao WebView atual.",
+    "en": "Native Client: extended proximity voice, PC/Android badges, noise suppression enabled by default and room voice moderation. Requires Android 8+, ARM64. iPhone remains on the current WebView version.",
+    "es": "Client nativo: voz de proximidad ampliada, identificadores PC/Android, supresion de ruido activada y moderacion de voz. Requiere Android 8+, ARM64. iPhone mantiene la version actual de WebView."
   },
-  "iosVersionCode": 120
+  "iosVersionCode": 120,
+  "clientConfigRevision": 1792169131692,
+  "clientPlatforms": {
+    "pc": {
+      "versionCode": 121,
+      "versionName": "3.0.0-client",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-PC.zip"
+    },
+    "android": {
+      "versionCode": 121,
+      "versionName": "3.0.0-client",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-121/Client-Android.apk"
+    }
+  },
+  "clientVersionCode": 121,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-121"
 }
