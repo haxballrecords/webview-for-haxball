@@ -1,37 +1,37 @@
 {
-  "versionCode": 123,
-  "versionName": "3.1.1",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-Android.apk",
+  "versionCode": 124,
+  "versionName": "3.1.2",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-iPhone.ipa",
-  "changelog": "Versão 3.1.1 (PC e Android, código 123). Na sala: botão Local/Global no Menu, sugestões de @/# mais confiáveis e alinhamento padrão do chat à esquerda. No PC, segure 1 ou 2 e use as teclas de movimento, inclusive diagonais, para escolher mensagens ou emojis. Voz: correções no pressionar para falar, no retorno à voz aberta, na recuperação da conexão e na transmissão após reabrir o microfone; o novo botão de alto-falante silencia e restaura o áudio de entrada e saída. O teclado do PC agora mantém o foco ao abrir e aceita Alt+0174, Ctrl+Z e Ctrl+E; o instalador cria um atalho na área de trabalho. O editor ganhou biblioteca de HUDs salvos com nome, edição e exclusão, e a prévia de posição acompanha a orientação vertical. A presença do Discord usa a identidade do Client. O iPhone recebe o IPA nativo de código 123, com nome interno 3.1.0; esse IPA não é assinado e exige assinatura pessoal para instalar.",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-iPhone.ipa",
+  "changelog": "Versão 3.1.2 (código 124). Chat: menções @/# mais confiáveis no celular, tamanho da fonte ajustável, mensagens selecionáveis e copiáveis e links clicáveis; links de salas pedem confirmação antes de entrar. Voz: ícone do alto-falante corrigido e áudio espacial com redução gradual pela distância, preservando a audibilidade de vozes mais fortes. Interface: Players sem chat embutido, botões de sala e Control reorganizados, editor de HUD com fundo desfocado e controles compactos, prévia de posição proporcional à tela e FPS/ping maiores. PC: Messages e Emojis podem receber teclas personalizadas; 1 e 2 ficam livres para as câmeras. Replay: velocidade e abas de estatísticas ajustadas, com janelas movíveis.",
   "changelogI18n": {
-    "pt": "Versão 3.1.1 (PC e Android, código 123). Na sala: botão Local/Global no Menu, sugestões de @/# mais confiáveis e alinhamento padrão do chat à esquerda. No PC, segure 1 ou 2 e use as teclas de movimento, inclusive diagonais, para escolher mensagens ou emojis. Voz: correções no pressionar para falar, no retorno à voz aberta, na recuperação da conexão e na transmissão após reabrir o microfone; o novo botão de alto-falante silencia e restaura o áudio de entrada e saída. O teclado do PC agora mantém o foco ao abrir e aceita Alt+0174, Ctrl+Z e Ctrl+E; o instalador cria um atalho na área de trabalho. O editor ganhou biblioteca de HUDs salvos com nome, edição e exclusão, e a prévia de posição acompanha a orientação vertical. A presença do Discord usa a identidade do Client. O iPhone recebe o IPA nativo de código 123, com nome interno 3.1.0; esse IPA não é assinado e exige assinatura pessoal para instalar.",
-    "en": "Version 3.1.1 (PC and Android, build 123). In rooms: Local/Global chat switch in Menu, more reliable @/# suggestions, and left-aligned chat by default. On PC, hold 1 or 2 and use movement keys, including diagonals, to choose quick messages or emojis. Voice fixes cover push-to-talk, returning to open mic, connection recovery, and transmission after reopening the microphone; the new speaker button mutes and restores incoming and outgoing audio. PC keyboard focus now stays in the Client at startup, with Alt+0174, Ctrl+Z, and Ctrl+E supported; the installer creates a desktop shortcut. The HUD editor gained a saved-layout library with naming, editing, and deletion, and the position preview follows portrait orientation. Discord presence uses the Client identity. iPhone receives the native IPA with build 123 and internal version 3.1.0; this unsigned IPA requires personal signing to install.",
-    "es": "Versión 3.1.1 (PC y Android, código 123). En las salas: cambio de chat Local/Global en el Menú, sugerencias @/# más fiables y alineación del chat a la izquierda por defecto. En PC, mantén pulsado 1 o 2 y usa las teclas de movimiento, incluidas las diagonales, para elegir mensajes o emojis rápidos. Las correcciones de voz abarcan pulsar para hablar, el regreso al micrófono abierto, la recuperación de la conexión y la transmisión tras reabrir el micrófono; el nuevo botón de altavoz silencia y restaura el audio entrante y saliente. El teclado del PC conserva el foco al abrir, admite Alt+0174, Ctrl+Z y Ctrl+E, y el instalador crea un acceso directo en el escritorio. El editor incorpora una biblioteca de HUD guardados para nombrar, editar y eliminar; la vista previa de posición sigue la orientación vertical. La presencia de Discord usa la identidad del Client. iPhone recibe el IPA nativo con código 123 y versión interna 3.1.0; este IPA sin firma requiere firma personal para instalar."
+    "pt": "Versão 3.1.2 (código 124). Chat: menções @/# mais confiáveis no celular, tamanho da fonte ajustável, mensagens selecionáveis e copiáveis e links clicáveis; links de salas pedem confirmação antes de entrar. Voz: ícone do alto-falante corrigido e áudio espacial com redução gradual pela distância, preservando a audibilidade de vozes mais fortes. Interface: Players sem chat embutido, botões de sala e Control reorganizados, editor de HUD com fundo desfocado e controles compactos, prévia de posição proporcional à tela e FPS/ping maiores. PC: Messages e Emojis podem receber teclas personalizadas; 1 e 2 ficam livres para as câmeras. Replay: velocidade e abas de estatísticas ajustadas, com janelas movíveis.",
+    "en": "Version 3.1.2 (build 124). Chat: more reliable @/# mentions on mobile, adjustable font size, selectable and copyable messages, and clickable links; room links ask for confirmation before joining. Voice: corrected speaker icon and spatial audio that fades gradually with distance while louder voices remain audible farther away. Interface: embedded chat removed from Players, room buttons and Control reorganized, HUD editor with a blurred background and compact controls, screen-proportional position preview, and larger FPS/ping labels. PC: Messages and Emojis can use custom keys; 1 and 2 remain available for camera switching. Replay: updated speed controls and statistics tabs, with movable windows.",
+    "es": "Versión 3.1.2 (código 124). Chat: menciones @/# más fiables en el móvil, tamaño de fuente ajustable, mensajes seleccionables y copiables y enlaces clicables; los enlaces de salas piden confirmación antes de entrar. Voz: icono del altavoz corregido y audio espacial que disminuye gradualmente con la distancia, manteniendo audibles a mayor distancia las voces más fuertes. Interfaz: chat integrado eliminado de Players, botones de sala y Control reorganizados, editor de HUD con fondo difuminado y controles compactos, vista previa de posición proporcional a la pantalla y textos de FPS/ping mayores. PC: Messages y Emojis admiten teclas personalizadas; 1 y 2 quedan disponibles para cambiar de cámara. Replay: controles de velocidad y pestañas de estadísticas ajustados, con ventanas movibles."
   },
-  "iosVersionCode": 123,
-  "clientConfigRevision": 1792191176963,
+  "iosVersionCode": 124,
+  "clientConfigRevision": 1792255193975,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 123,
-      "versionName": "3.1.1",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-PC.zip"
+      "versionCode": 124,
+      "versionName": "3.1.2",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-PC.zip"
     },
     "android": {
-      "versionCode": 123,
-      "versionName": "3.1.1",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-Android.apk"
+      "versionCode": 124,
+      "versionName": "3.1.2",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-Android.apk"
     },
     "ios": {
-      "versionCode": 123,
-      "versionName": "3.1.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-iPhone.ipa"
+      "versionCode": 124,
+      "versionName": "3.1.2",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-iPhone.ipa"
     }
   },
-  "clientVersionCode": 123,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-123",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-123/Client-iPhone.ipa"
+  "clientVersionCode": 124,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-124",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-124/Client-iPhone.ipa"
 }
