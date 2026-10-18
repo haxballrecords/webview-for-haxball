@@ -1,40 +1,40 @@
 {
-  "versionCode": 126,
-  "versionName": "3.1.4",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-Android.apk",
+  "versionCode": 127,
+  "versionName": "3.1.6",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa",
-  "changelog": "Tentativa de melhoria na inicialização do Client pelo Windows",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-iPhone.ipa",
+  "changelog": "Ajuste no Editor de HUD, na janela de jogadores e nas marcações @ e #, ajustando também a posição e o comportamento de alguns botões",
   "changelogI18n": {
-    "pt": "Tentativa de melhoria na inicialização do Client pelo Windows",
-    "en": "Tentativa de melhoria na inicialização do Client pelo Windows",
-    "es": "Tentativa de melhoria na inicialização do Client pelo Windows"
+    "pt": "Ajuste no Editor de HUD, na janela de jogadores e nas marcações @ e #, ajustando também a posição e o comportamento de alguns botões",
+    "en": "Ajuste no Editor de HUD, na janela de jogadores e nas marcações @ e #, ajustando também a posição e o comportamento de alguns botões",
+    "es": "Ajuste no Editor de HUD, na janela de jogadores e nas marcações @ e #, ajustando também a posição e o comportamento de alguns botões"
   },
-  "iosVersionCode": 126,
-  "clientConfigRevision": 1792293904227,
+  "iosVersionCode": 127,
+  "clientConfigRevision": 1792338346798,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 126,
-      "versionName": "3.1.4",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-PC.zip",
-      "sha256": "b6aedc6b5cb6af0036511b888b0cd27627991da5ea2684adba0a7ef63821dc28"
+      "versionCode": 127,
+      "versionName": "3.1.6",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-PC.zip",
+      "sha256": "296012c2d62044535034c4437c2699a670503e4a13281246fa9cfcedc0e07108"
     },
     "android": {
-      "versionCode": 126,
-      "versionName": "3.1.4",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-Android.apk",
-      "sha256": "90a684f628c741924722e2bd235176e5647bda2439f51c3e5c6bf8dd6c3c7e2d"
+      "versionCode": 127,
+      "versionName": "3.1.6",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-Android.apk",
+      "sha256": "bce5514b6e06e194cf3d0903770eb97c10e7585a20b9516ff62770a443e117e9"
     },
     "ios": {
-      "versionCode": 126,
+      "versionCode": 127,
       "versionName": "3.1.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa",
-      "sha256": "7c307ec1c7d8061d77de9f60ca999521f82eb46d5e40ee9ac6b9c02c70861530"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-iPhone.ipa",
+      "sha256": "7ed25f3bc758c4492bfe438948e61ee7c8f19376d2cdf3bada0b6f25a8f546d2"
     }
   },
-  "clientVersionCode": 126,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-126",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa"
+  "clientVersionCode": 127,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-127",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-127/Client-iPhone.ipa"
 }
