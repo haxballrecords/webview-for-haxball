@@ -1,40 +1,40 @@
 {
-  "versionCode": 125,
-  "versionName": "3.1.3",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-Android.apk",
+  "versionCode": 126,
+  "versionName": "3.1.4",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-iPhone.ipa",
-  "changelog": "Versão 3.1.3 (código 125). Menu da sala reorganizado com Profile, Players, Link, Rec, Som, Save stadium, Edit HUD, Chat, Settings e Leave room; gravação destacada em vermelho e avisos de chat no Menu. Identificação PC/Android/iPhone sem mensagem de entrada no chat. Menções @/# em janela central, chat com rolagem preservada e altura ajustável com Players aberto. Biblioteca de HUDs com salvamento por nome, aplicação, confirmação ao descartar, controles de tamanho e opacidade; editor mais leve. Seleção de saída de áudio, volume geral e ajustes de voz de proximidade. Ditado local no Windows para revisar antes de enviar. Placar ajustável, salas salvas no lobby, contadores de jogadores e correções do anúncio e do analisador de replays. A versão para iPhone é um IPA sem assinatura que requer assinatura pessoal para instalação. Mais espaco entre os icones dos cantos, Control so com coroa e Menu compacto no replay com Players dentro. No Windows, as proximas atualizacoes sao baixadas, conferidas e instaladas pelo proprio Client, sem abrir navegador; registro de falhas e alternativa para placas antigas.",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa",
+  "changelog": "Tentativa de melhoria na inicialização do Client pelo Windows",
   "changelogI18n": {
-    "pt": "Versão 3.1.3 (código 125). Menu da sala reorganizado com Profile, Players, Link, Rec, Som, Save stadium, Edit HUD, Chat, Settings e Leave room; gravação destacada em vermelho e avisos de chat no Menu. Identificação PC/Android/iPhone sem mensagem de entrada no chat. Menções @/# em janela central, chat com rolagem preservada e altura ajustável com Players aberto. Biblioteca de HUDs com salvamento por nome, aplicação, confirmação ao descartar, controles de tamanho e opacidade; editor mais leve. Seleção de saída de áudio, volume geral e ajustes de voz de proximidade. Ditado local no Windows para revisar antes de enviar. Placar ajustável, salas salvas no lobby, contadores de jogadores e correções do anúncio e do analisador de replays. A versão para iPhone é um IPA sem assinatura que requer assinatura pessoal para instalação. Mais espaco entre os icones dos cantos, Control so com coroa e Menu compacto no replay com Players dentro. No Windows, as proximas atualizacoes sao baixadas, conferidas e instaladas pelo proprio Client, sem abrir navegador; registro de falhas e alternativa para placas antigas.",
-    "en": "Version 3.1.3 (build 125). Reorganized room Menu with Profile, Players, Link, Rec, Sound, Save stadium, Edit HUD, Chat, Settings and Leave room; recording highlighted in red and chat notices on the Menu. PC/Android/iPhone identification without a visible join message. Central @/# mention window, preserved chat scroll position and chat height adjustment while Players is open. Named HUD saving and application, discard confirmation, size and opacity controls, and a lighter editor. Audio output selection, master volume and proximity voice adjustments. Local Windows dictation for review before sending. Adjustable scoreboard, saved rooms in the lobby, player counts, and ad and replay analyzer fixes. The iPhone IPA is unsigned and requires personal signing to install. Wider spacing between corner icons, crown-only Control and a compact replay Menu with Players inside. On Windows, future updates are downloaded, verified and installed inside Client without a browser; crash logging and fallback for older GPUs.",
-    "es": "Versión 3.1.3 (código 125). Menú de sala reorganizado con Profile, Players, Link, Rec, Sonido, Save stadium, Edit HUD, Chat, Settings y Leave room; grabación en rojo y avisos de chat en el Menú. Identificación PC/Android/iPhone sin mensaje visible al entrar. Ventana central para menciones @/#, posición del chat conservada y altura ajustable con Players abierto. Guardado de HUD con nombre, aplicación, confirmación al descartar, controles de tamaño y opacidad y editor más ligero. Selección de salida de audio, volumen general y ajustes de voz por proximidad. Dictado local en Windows para revisar antes de enviar. Marcador ajustable, salas guardadas en el lobby, conteo de jugadores y correcciones del anuncio y del analizador de repeticiones. El IPA de iPhone no está firmado y requiere firma personal para instalar. Mas espacio entre los iconos de las esquinas, Control solo con corona y Menu compacto en repeticiones con Players dentro. En Windows, las proximas actualizaciones se descargan, verifican e instalan dentro del Client sin navegador; registro de fallos y alternativa para GPU antiguas."
+    "pt": "Tentativa de melhoria na inicialização do Client pelo Windows",
+    "en": "Tentativa de melhoria na inicialização do Client pelo Windows",
+    "es": "Tentativa de melhoria na inicialização do Client pelo Windows"
   },
-  "iosVersionCode": 125,
-  "clientConfigRevision": 1792291967582,
+  "iosVersionCode": 126,
+  "clientConfigRevision": 1792293904227,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 125,
-      "versionName": "3.1.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-PC.zip",
-      "sha256": "32d9529d17d3a3d4873af9306b68ead8b8e7521c7c227d9d3140d16dcaeebaf8"
+      "versionCode": 126,
+      "versionName": "3.1.4",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-PC.zip",
+      "sha256": "b6aedc6b5cb6af0036511b888b0cd27627991da5ea2684adba0a7ef63821dc28"
     },
     "android": {
-      "versionCode": 125,
-      "versionName": "3.1.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-Android.apk",
-      "sha256": "38b0e58be91395185cc3a7a4fc720c19d177685cdb77e7e894e6fce51fd4ebee"
+      "versionCode": 126,
+      "versionName": "3.1.4",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-Android.apk",
+      "sha256": "90a684f628c741924722e2bd235176e5647bda2439f51c3e5c6bf8dd6c3c7e2d"
     },
     "ios": {
-      "versionCode": 125,
-      "versionName": "3.1.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-iPhone.ipa",
-      "sha256": "c969e8f6f3bbf065c01143b712e31e0b818ff1bf186ab11f7023e8b80e27d868"
+      "versionCode": 126,
+      "versionName": "3.1.0",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa",
+      "sha256": "7c307ec1c7d8061d77de9f60ca999521f82eb46d5e40ee9ac6b9c02c70861530"
     }
   },
-  "clientVersionCode": 125,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-125",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-125/Client-iPhone.ipa"
+  "clientVersionCode": 126,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-126",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-126/Client-iPhone.ipa"
 }
