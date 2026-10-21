@@ -1,40 +1,40 @@
 {
-  "versionCode": 129,
-  "versionName": "3.1.8",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-Android.apk",
+  "versionCode": 130,
+  "versionName": "3.1.9",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-iPhone.ipa",
-  "changelog": "Adição de opção de ajuste para analógico em \"Perfil\" > \"Ajustes\"",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa",
+  "changelog": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
   "changelogI18n": {
-    "pt": "Adição de opção de ajuste para analógico em \"Perfil\" > \"Ajustes\"",
-    "en": "Adição de opção de ajuste para analógico em \"Perfil\" > \"Ajustes\"",
-    "es": "Adição de opção de ajuste para analógico em \"Perfil\" > \"Ajustes\""
+    "pt": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
+    "en": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
+    "es": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays"
   },
-  "iosVersionCode": 129,
-  "clientConfigRevision": 1792433680848,
+  "iosVersionCode": 130,
+  "clientConfigRevision": 1792606018950,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 129,
-      "versionName": "3.1.8",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-PC.zip",
-      "sha256": "f8b7485e35caacdaf996e57bb49e80feaab4ca2ad16486600e45f81271259bf5"
+      "versionCode": 130,
+      "versionName": "3.1.9",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-PC.zip",
+      "sha256": "f82c06c94aae1501a1ce41717b3b8353962d4e38e1eebd8d05c0339d4c06ed81"
     },
     "android": {
-      "versionCode": 129,
-      "versionName": "3.1.8",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-Android.apk",
-      "sha256": "709cc44b809f85e9e5735f0bb623d7a7a827621b46b79ef9ac6500c0f406fd45"
+      "versionCode": 130,
+      "versionName": "3.1.9",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-Android.apk",
+      "sha256": "16f2b45d39a1de8cd0d0ca202f9fd8216e71e17889583bec1807e49b2824716c"
     },
     "ios": {
-      "versionCode": 129,
+      "versionCode": 130,
       "versionName": "3.1.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-iPhone.ipa",
-      "sha256": "85dea1474aacc90ffc7d0e6e81da6b12cf744fa756713afbb58ffb5a6254dab7"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa",
+      "sha256": "020d39259a81da59ace26c05b65df236791aae4ac129390a3425c0308c55d1d3"
     }
   },
-  "clientVersionCode": 129,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-129",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-129/Client-iPhone.ipa"
+  "clientVersionCode": 130,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-130",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa"
 }
