@@ -1,40 +1,40 @@
 {
-  "versionCode": 130,
-  "versionName": "3.1.9",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-Android.apk",
+  "versionCode": 131,
+  "versionName": "3.2.0",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa",
-  "changelog": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-iPhone.ipa",
+  "changelog": "Reformulação e expansão do Analisador de Replays, padronização visual e melhorias gerais de interface e correções de bugs, otimizações e aumento da estabilidade do client.",
   "changelogI18n": {
-    "pt": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
-    "en": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays",
-    "es": "Ajuste do modo zoom/pinça e aprimoramento/ajuste no analisador de replays"
+    "pt": "Reformulação e expansão do Analisador de Replays, padronização visual e melhorias gerais de interface e correções de bugs, otimizações e aumento da estabilidade do client.",
+    "en": "Reformulação e expansão do Analisador de Replays, padronização visual e melhorias gerais de interface e correções de bugs, otimizações e aumento da estabilidade do client.",
+    "es": "Reformulação e expansão do Analisador de Replays, padronização visual e melhorias gerais de interface e correções de bugs, otimizações e aumento da estabilidade do client."
   },
-  "iosVersionCode": 130,
-  "clientConfigRevision": 1792606018950,
+  "iosVersionCode": 131,
+  "clientConfigRevision": 1792654804740,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 130,
-      "versionName": "3.1.9",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-PC.zip",
-      "sha256": "f82c06c94aae1501a1ce41717b3b8353962d4e38e1eebd8d05c0339d4c06ed81"
+      "versionCode": 131,
+      "versionName": "3.2.0",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-PC.zip",
+      "sha256": "fe2928138a928a478e32f06beeac293f51c9e81ce2f171eb8e9d8b5581897cf2"
     },
     "android": {
-      "versionCode": 130,
-      "versionName": "3.1.9",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-Android.apk",
-      "sha256": "16f2b45d39a1de8cd0d0ca202f9fd8216e71e17889583bec1807e49b2824716c"
+      "versionCode": 131,
+      "versionName": "3.2.0",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-Android.apk",
+      "sha256": "8e650948b79a8589cfdeace855473f50e98d6d0086c18e09c6aa87b7885d8478"
     },
     "ios": {
-      "versionCode": 130,
+      "versionCode": 131,
       "versionName": "3.1.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa",
-      "sha256": "020d39259a81da59ace26c05b65df236791aae4ac129390a3425c0308c55d1d3"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-iPhone.ipa",
+      "sha256": "a7d834a939412ce4dc1b1d8d06a10bb417ec8b50b362518a0fe2bf72ff5700fc"
     }
   },
-  "clientVersionCode": 130,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-130",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-130/Client-iPhone.ipa"
+  "clientVersionCode": 131,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-131",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-131/Client-iPhone.ipa"
 }
