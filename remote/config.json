@@ -1,40 +1,40 @@
 {
-  "versionCode": 135,
+  "versionCode": 136,
   "versionName": "3.3.0",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-Android.apk",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-iPhone.ipa",
-  "changelog": "Treinos novos (Tabela até o gol e Double), exercícios mais variados, sons e pausa (P). Tutorial com Voltar/Avançar e aula prática de extrapolation. Editor do treino livre com segmentos retos (Shift) e vértices que colam e alinham. Salas locais com nome e senha, Wi-Fi/LAN além do Bluetooth, chat de voz e sem anúncios. Diagnóstico de desempenho em Configurações > Vídeo. Correções: tela no canto em PC sem placa de vídeo, modo CPU bem mais rápido e mapa sem linhas após o treino.",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-iPhone.ipa",
+  "changelog": "Ajustes da atualização anterior",
   "changelogI18n": {
-    "pt": "Treinos novos (Tabela até o gol e Double), exercícios mais variados, sons e pausa (P). Tutorial com Voltar/Avançar e aula prática de extrapolation. Editor do treino livre com segmentos retos (Shift) e vértices que colam e alinham. Salas locais com nome e senha, Wi-Fi/LAN além do Bluetooth, chat de voz e sem anúncios. Diagnóstico de desempenho em Configurações > Vídeo. Correções: tela no canto em PC sem placa de vídeo, modo CPU bem mais rápido e mapa sem linhas após o treino.",
-    "en": "New drills (One-two to goal and Double), more varied exercises, sounds and pause (P). Tutorial with Back/Next and a hands-on extrapolation lesson. Free training editor with straight segments (Shift) and vertices that snap and align. Local rooms with name and password, Wi-Fi/LAN besides Bluetooth, voice chat and no ads. Performance diagnostics in Settings > Video. Fixes: screen stuck in the corner on PCs without a graphics card, much faster CPU mode and maps without lines after training.",
-    "es": "Entrenamientos nuevos (Paredes hasta el gol y Double), ejercicios más variados, sonidos y pausa (P). Tutorial con Volver/Siguiente y clase práctica de extrapolation. Editor del entrenamiento libre con segmentos rectos (Shift) y vértices que se pegan y alinean. Salas locales con nombre y contraseña, Wi-Fi/LAN además de Bluetooth, chat de voz y sin anuncios. Diagnóstico de rendimiento en Configuración > Video. Correcciones: pantalla en la esquina en PC sin tarjeta de video, modo CPU mucho más rápido y mapa sin líneas después del entrenamiento."
+    "pt": "Ajustes da atualização anterior",
+    "en": "Ajustes da atualização anterior",
+    "es": "Ajustes da atualização anterior"
   },
-  "iosVersionCode": 135,
-  "clientConfigRevision": 1793383759001,
+  "iosVersionCode": 136,
+  "clientConfigRevision": 1793389406307,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 135,
+      "versionCode": 136,
       "versionName": "3.3.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-PC.zip",
-      "sha256": "ef4e63ed78fde4d6a407bdaae730225a2bd47b0d0a2aa71a01ce5fb55e141c68"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-PC.zip",
+      "sha256": "d303738fe5f57e39deab6c08917806a3260a675df96435cb498dc096d6023a85"
     },
     "android": {
-      "versionCode": 135,
+      "versionCode": 136,
       "versionName": "3.3.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-Android.apk",
-      "sha256": "a16202e33541fa674bb3cada2d2be898fcdb6d88c421371ebf71b10192fe0353"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-Android.apk",
+      "sha256": "e265b9c62333c2d810cbcf7542cea4a25c44780a91e7ab5474818b1a65e733a1"
     },
     "ios": {
-      "versionCode": 135,
-      "versionName": "3.3.0",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-iPhone.ipa",
-      "sha256": "d0f3a831d43f674e0200b89a8e9c9419aeb9a0369007cf10258652eb76b2479f"
+      "versionCode": 136,
+      "versionName": "3.2.3",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-iPhone.ipa",
+      "sha256": "8a5e5fa67516d414ae26eb6c2bc5b22e865b9d2a4b0e74284aa5792fc7575e53"
     }
   },
-  "clientVersionCode": 135,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-135",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-135/Client-iPhone.ipa"
+  "clientVersionCode": 136,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-136",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-136/Client-iPhone.ipa"
 }
