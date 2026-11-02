@@ -1,40 +1,40 @@
 {
-  "versionCode": 139,
+  "versionCode": 140,
   "versionName": "3.3.3",
-  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-Android.apk",
+  "latestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-Android.apk",
   "enabled": true,
   "minVersion": 1,
   "iosOta": false,
-  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-iPhone.ipa",
-  "changelog": "Ajustes no controle",
+  "ipaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-iPhone.ipa",
+  "changelog": "Ajuste simples do suporte para dispostivos bluetooth e USB",
   "changelogI18n": {
-    "pt": "Ajustes no controle",
-    "en": "Ajustes no controle",
-    "es": "Ajustes no controle"
+    "pt": "Ajuste simples do suporte para dispostivos bluetooth e USB",
+    "en": "Ajuste simples do suporte para dispostivos bluetooth e USB",
+    "es": "Ajuste simples do suporte para dispostivos bluetooth e USB"
   },
-  "iosVersionCode": 139,
-  "clientConfigRevision": 1793592486034,
+  "iosVersionCode": 140,
+  "clientConfigRevision": 1793599495133,
   "clientPlatforms": {
     "pc": {
-      "versionCode": 139,
+      "versionCode": 140,
       "versionName": "3.3.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-PC.zip",
-      "sha256": "85f1bef9d718cafeabb44e5672a9c41b25668eb18f89b46f7a206241f1e917a6"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-PC.zip",
+      "sha256": "c09df4182bd7ab317b117aaaddd60eafaaec9e4d07bed7a1d6d04852ec9aa01c"
     },
     "android": {
-      "versionCode": 139,
+      "versionCode": 140,
       "versionName": "3.3.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-Android.apk",
-      "sha256": "825658a4a22b6c72d20b67e764858db2e8943794e120d761967d0f41cfc54dd2"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-Android.apk",
+      "sha256": "876fccefcac983fdc8d17f13fdf6c5a03cccfabd1622cdde2c6d7d5a01978504"
     },
     "ios": {
-      "versionCode": 139,
+      "versionCode": 140,
       "versionName": "3.2.3",
-      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-iPhone.ipa",
-      "sha256": "1ba1721753a3b0ab7305d90c5d3c4c7be1662a8064bb4f984c135b6f42d26fb0"
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-iPhone.ipa",
+      "sha256": "8a6f6055df4e058463a9a2705f279f4134390369c9e23f8e1234a592affbedc8"
     }
   },
-  "clientVersionCode": 139,
-  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-139",
-  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-139/Client-iPhone.ipa"
+  "clientVersionCode": 140,
+  "clientLatestUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/tag/client-140",
+  "iosIpaUrl": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-140/Client-iPhone.ipa"
 }
