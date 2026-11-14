@@ -13,7 +13,7 @@
     "es": "Ajuste do retorno do Discord"
   },
   "iosVersionCode": 144,
-  "clientConfigRevision": 1794619948986,
+  "clientConfigRevision": 1794622128913,
   "clientPlatforms": {
     "pc": {
       "versionCode": 144,
@@ -32,6 +32,12 @@
       "versionName": "3.3.6",
       "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-144/Client-iPhone.ipa",
       "sha256": "e88b29923fc8e35e32e07e013616345656f2de66559427c92fb2b2eed3ec861d"
+    },
+    "linux": {
+      "versionCode": 144,
+      "versionName": "Linux beta 144",
+      "url": "https://github.com/haxballrecords/webview-for-haxball/releases/download/client-144/Client-Linux.tar.gz",
+      "sha256": "380077fc0473b660d303d9742b6523a1b8d59aa3a3a8163cf646d7fcb44bb8bb"
     }
   },
   "clientVersionCode": 144,
